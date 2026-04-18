@@ -1,0 +1,11 @@
+{
+  "name": "litmus-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "serialport": "^12.0.0",
+    "@serialport/parser-readline": "^12.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
