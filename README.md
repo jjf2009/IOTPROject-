@@ -1,50 +1,167 @@
-# Welcome to your Expo app 👋
+# 🧪 LITMUS — IoT Food Adulteration Detection System
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A real-time food adulteration detection system built with **Arduino**, a **Node.js bridge server**, and a **React Native (Expo)** mobile app. LITMUS reads pH, turbidity, temperature, and gas sensor data from an Arduino board and displays a live **SAFE / ADULTERATED** verdict on your phone.
 
-## Get started
+---
 
-1. Install dependencies
+## 📐 Architecture
 
-   ```bash
-   npm install
+```
+┌─────────────┐    USB/Serial    ┌──────────────┐    HTTP (Wi-Fi)    ┌──────────────┐
+│  Arduino Uno │ ──────────────► │  Node.js     │ ◄───────────────── │  Expo Go     │
+│  + Sensors   │   9600 baud     │  Server      │   GET /data        │  Mobile App  │
+└─────────────┘                  └──────────────┘   (polling 1s)     └──────────────┘
+```
+
+> Phone and laptop must be on the **same network** (phone hotspot works perfectly).
+
+---
+
+## 🔬 Sensors
+
+| Sensor | Pin | Measurement | Safe Range |
+|--------|-----|-------------|------------|
+| **pH Sensor** | A0 | Acidity / alkalinity | 6.0 – 8.5 pH |
+| **Turbidity Sensor** | A1 | Clarity of liquid | < 100 NTU |
+| **DS18B20 (Temperature)** | D4 | Temperature | < 40 °C |
+| **MQ Gas Sensor** | A2 | Gas concentration | < 400 ppm |
+
+If **2 or more** readings fall outside their safe range → verdict is **ADULTERATED**.
+
+---
+
+## 📁 Project Structure
+
+```
+litmus/
+├── ardunio/
+│   └── litmus_firmware.ino      # Arduino sketch
+├── server/
+│   ├── package.json
+│   └── index.js                 # Serial → HTTP bridge
+├── app/
+│   ├── _layout.tsx              # Root layout
+│   └── index.tsx                # Main screen (polls /data)
+├── components/
+│   ├── ReadingCard.tsx           # Sensor value card
+│   └── ResultBadge.tsx          # SAFE / ADULTERATED badge
+├── utils/
+│   └── parseData.ts             # Types + detection logic
+├── app.json
+├── babel.config.js
+├── metro.config.js
+└── package.json
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **Arduino IDE** with `OneWire` and `DallasTemperature` libraries installed
+- **Node.js** v18+
+- **Expo Go** app on your Android phone
+- Arduino Uno connected via USB to your laptop
+
+### 1. Flash the Arduino
+
+1. Open `ardunio/litmus_firmware.ino` in the Arduino IDE
+2. Adjust the `SERIAL_PORT` (COM port) if needed
+3. Calibrate `PH_SLOPE` and `PH_OFFSET` for your pH sensor
+4. Upload to your Arduino Uno
+
+The Arduino outputs data in this format over Serial:
+```
+ph:7.10,turb:85.0,temp:27.3,gas:310
+```
+
+### 2. Start the Bridge Server
+
+```bash
+cd server
+npm install
+node index.js
+```
+
+> **Edit `SERIAL_PORT`** in `server/index.js` to match your Arduino's COM port  
+> (Windows: `COM3`, `COM4` … | Linux/Mac: `/dev/ttyUSB0`, `/dev/ttyACM0`)
+
+You should see:
+```
+LITMUS server running at http://0.0.0.0:3000
+GET /data to read sensor values
+```
+
+### 3. Find Your Laptop IP
+
+| OS | Command |
+|----|---------|
+| Windows | `ipconfig` → IPv4 Address |
+| Mac/Linux | `ifconfig` or `ip addr` |
+
+### 4. Configure & Run the Expo App
+
+1. **Update the server IP** in `app/index.tsx`:
+   ```ts
+   const SERVER_URL = "http://<YOUR_LAPTOP_IP>:3000/data";
    ```
 
-2. Start the app
-
+2. Install dependencies and start:
    ```bash
+   npm install
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+3. Scan the QR code with **Expo Go** on your phone
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+> ⚠️ Your phone must be on the **same Wi-Fi network** as your laptop.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🧠 Detection Logic
 
-When you're ready, run:
+The system evaluates four parameters against safe thresholds:
 
-```bash
-npm run reset-project
+```
+pH      →  abnormal if < 6.0 or > 8.5
+Turbidity →  abnormal if > 100 NTU
+Temperature →  abnormal if > 40 °C
+Gas     →  abnormal if > 400 ppm
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+| Abnormal Count | Verdict |
+|:--------------:|:-------:|
+| 0–1 | ✅ **SAFE** |
+| 2+ | ❌ **ADULTERATED** |
+| No data | ⏳ **AWAITING DATA** |
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 🛠 Tech Stack
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+| Layer | Technology |
+|-------|-----------|
+| **Hardware** | Arduino Uno, pH/Turbidity/MQ-Gas/DS18B20 sensors |
+| **Firmware** | C++ (Arduino IDE) |
+| **Bridge Server** | Node.js, Express, SerialPort |
+| **Mobile App** | React Native (Expo Router), TypeScript |
+| **Styling** | React Native StyleSheet |
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 📷 Screenshots
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+*Coming soon — run the app and add screenshots here.*
+
+---
+
+## 📄 License
+
+This project is for educational and research purposes.
+
+---
+
+<p align="center">
+  Built with ⚗️ by <strong>LITMUS Team</strong>
+</p>

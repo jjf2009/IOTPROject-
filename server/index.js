@@ -26,7 +26,7 @@ parser.on("data", (line) => {
     if (!isNaN(num)) {
       if (key === "ph") latestData.ph = num;
       if (key === "turb") latestData.turb = num;
-      if (key === "temp") latestData.temp = num;
+      if (key === "temp") latestData.temp = num === -999 ? null : num; 
       if (key === "gas") latestData.gas = num;
     }
   }
