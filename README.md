@@ -8,7 +8,7 @@ A real-time food adulteration detection system built with **Arduino**, a **Node.
 
 ```
 ┌─────────────┐    USB/Serial    ┌──────────────┐    HTTP (Wi-Fi)    ┌──────────────┐
-│  Arduino Uno │ ──────────────► │  Node.js     │ ◄───────────────── │  Expo Go     │
+│  Arduino Uno│ ──────────────► │  Node.js     │ ◄───────────────── │  Expo Go     │
 │  + Sensors   │   9600 baud     │  Server      │   GET /data        │  Mobile App  │
 └─────────────┘                  └──────────────┘   (polling 1s)     └──────────────┘
 ```
