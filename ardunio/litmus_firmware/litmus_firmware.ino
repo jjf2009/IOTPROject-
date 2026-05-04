@@ -43,58 +43,54 @@ void loop() {
   if (currentTime - lastSampleTime >= SAMPLE_INTERVAL_MS) {
     lastSampleTime = currentTime;
 
-    float phValue   = readPH();
-    float turbValue = readTurbidity();
-    float tempValue = readTemperature();
-    int   gasValue  = readGas();
+    int phRaw   = readPHRaw();
+    int turbRaw = readTurbidityRaw();
+    float temp  = readTemperatureRaw();
+    int gasRaw  = readGasRaw();
 
-    Serial.print("ph:");
-    Serial.print(phValue, 2);
-    Serial.print(",turb:");
-    Serial.print(turbValue, 1);
+    Serial.print("ph_raw:");
+    Serial.print(phRaw);
+    Serial.print(",turb_raw:");
+    Serial.print(turbRaw);
     Serial.print(",temp:");
-    Serial.print(tempValue, 1);
-    Serial.print(",gas:");
-    Serial.println(gasValue);
+    Serial.print(temp);
+    Serial.print(",gas_raw:");
+    Serial.println(gasRaw);
   }
 }
 
 // ─── SENSOR FUNCTIONS ────────────────────────────
 
-float readPH() {
+int readPHRaw() {
   long total = 0;
   for (int i = 0; i < NUM_SAMPLES; i++) {
     total += analogRead(PH_PIN);
     delay(10);
   }
-  float voltage = (total / (float)NUM_SAMPLES) * (5.0 / 1023.0);
-  float ph = 7.0 + ((2.5 - voltage) / PH_SLOPE) + PH_OFFSET;
-  return constrain(ph, 0.0, 14.0);
+  return total / NUM_SAMPLES; // raw ADC (0–1023)
 }
 
-float readTurbidity() {
+int readTurbidityRaw() {
   long total = 0;
   for (int i = 0; i < NUM_SAMPLES; i++) {
     total += analogRead(TURB_PIN);
     delay(10);
   }
-  float avgAnalog = total / (float)NUM_SAMPLES;
-  float ntu = map(avgAnalog, TURB_CLEAR, TURB_DIRTY, 0, 1000);
-  return constrain(ntu, 0, 1000);
+  return total / NUM_SAMPLES; // raw ADC
 }
 
-float readTemperature() {
+float readTemperatureRaw() {
   tempSensor.requestTemperatures();
   float tempC = tempSensor.getTempCByIndex(0);
   if (tempC == DEVICE_DISCONNECTED_C) return -999.0;
-  return tempC;
+  return tempC; // already raw enough
 }
 
-int readGas() {
+int readGasRaw() {
   long total = 0;
   for (int i = 0; i < NUM_SAMPLES; i++) {
     total += analogRead(GAS_PIN);
     delay(10);
   }
-  return total / NUM_SAMPLES;
+  return total / NUM_SAMPLES; // raw ADC
 }

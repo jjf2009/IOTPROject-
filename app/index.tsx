@@ -10,7 +10,7 @@ import { SensorData, getResult } from "../utils/parseData";
 import ReadingCard from "../components/ReadingCard";
 import ResultBadge from "../components/ResultBadge";
 
-const SERVER_URL = "http://10.208.226.43:3000/data";
+const SERVER_URL = "http://127.0.0.1:3000/data";
 const POLL_INTERVAL_MS = 1000;
 
 export default function Index() {
