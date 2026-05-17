@@ -1,0 +1,303 @@
+timestamp,ph,turb,temp,gas,result,confidence,turbDev,phDev,gasDev,errors
+2026-05-17T16:07:40.151Z,6.79,452,29.75,24.1,⚠️  Adulterated — Water Dilution,High,94.8,0.49,6,none
+2026-05-17T16:07:40.152Z,6.76,454.5,29.72,24.1,⚠️  Adulterated — Water Dilution,High,95.9,0.46,6,none
+2026-05-17T16:07:44.677Z,6.73,457,29.71,24.2,⚠️  Adulterated — Water Dilution,High,97,0.43,5.9,none
+2026-05-17T16:07:45.677Z,6.71,458.3,29.7,24.3,⚠️  Adulterated — Water Dilution,High,97.5,0.41,5.9,none
+2026-05-17T16:07:46.680Z,6.7,459,29.7,24.4,⚠️  Adulterated — Water Dilution,High,97.8,0.4,5.8,none
+2026-05-17T16:07:47.680Z,6.67,461,29.69,24.4,⚠️  Adulterated — Water Dilution,High,98.7,0.37,5.8,none
+2026-05-17T16:07:48.683Z,6.65,462,29.69,24.5,⚠️  Adulterated — Water Dilution,High,99.1,0.35,5.8,none
+2026-05-17T16:07:49.684Z,6.64,462.2,29.69,24.6,⚠️  Adulterated — Water Dilution,High,99.2,0.34,5.7,none
+2026-05-17T16:07:50.686Z,6.64,462.2,29.69,24.6,⚠️  Adulterated — Water Dilution,High,99.2,0.34,5.7,none
+2026-05-17T16:07:51.688Z,6.63,462.2,29.69,24.6,⚠️  Adulterated — Water Dilution,High,99.2,0.33,5.7,none
+2026-05-17T16:07:52.689Z,6.63,462.4,29.69,24.6,⚠️  Adulterated — Water Dilution,High,99.3,0.33,5.7,none
+2026-05-17T16:07:53.690Z,6.62,462.4,29.69,24.6,⚠️  Adulterated — Water Dilution,High,99.3,0.32,5.7,none
+2026-05-17T16:07:54.692Z,6.62,462.4,29.69,24.5,⚠️  Adulterated — Water Dilution,High,99.3,0.32,5.8,none
+2026-05-17T16:07:55.694Z,6.62,462.6,29.69,24.4,⚠️  Adulterated — Water Dilution,High,99.4,0.32,5.8,none
+2026-05-17T16:07:56.695Z,6.62,462.8,29.7,24.3,⚠️  Adulterated — Water Dilution,High,99.5,0.32,5.9,none
+2026-05-17T16:07:57.697Z,6.62,462.8,29.7,24.2,⚠️  Adulterated — Water Dilution,High,99.5,0.32,5.9,none
+2026-05-17T16:07:58.699Z,6.62,463.2,29.7,24.2,⚠️  Adulterated — Water Dilution,High,99.7,0.32,6,none
+2026-05-17T16:07:59.700Z,6.62,463.4,29.7,24.2,⚠️  Adulterated — Water Dilution,High,99.7,0.32,6,none
+2026-05-17T16:08:00.702Z,6.61,463.6,29.71,24.2,⚠️  Adulterated — Water Dilution,High,99.8,0.31,5.9,none
+2026-05-17T16:08:01.703Z,6.61,463.6,29.7,24.3,⚠️  Adulterated — Water Dilution,High,99.8,0.31,5.9,none
+2026-05-17T16:08:02.705Z,6.6,463.6,29.7,24.4,⚠️  Adulterated — Water Dilution,High,99.8,0.3,5.8,none
+2026-05-17T16:08:03.706Z,6.6,463.8,29.7,24.4,⚠️  Adulterated — Water Dilution,High,99.9,0.3,5.8,none
+2026-05-17T16:08:04.708Z,6.59,464,29.7,24.4,⚠️  Adulterated — Water Dilution,High,100,0.29,5.8,none
+2026-05-17T16:08:05.709Z,6.59,464.2,29.69,24.4,⚠️  Adulterated — Water Dilution,High,100.1,0.29,5.8,none
+2026-05-17T16:08:06.711Z,6.58,465,29.69,24.3,⚠️  Adulterated — Water Dilution,High,100.4,0.28,5.9,none
+2026-05-17T16:08:07.713Z,6.59,466,29.7,24.2,⚠️  Adulterated — Water Dilution,High,100.9,0.29,6,none
+2026-05-17T16:08:08.714Z,6.59,466.8,29.71,24,⚠️  Adulterated — Water Dilution,High,101.2,0.29,6,none
+2026-05-17T16:08:09.716Z,6.6,467.8,29.71,23.9,⚠️  Adulterated — Water Dilution,High,101.6,0.3,6.1,none
+2026-05-17T16:08:10.717Z,6.6,469.2,29.73,23.8,⚠️  Adulterated — Water Dilution,High,102.2,0.3,6.2,none
+2026-05-17T16:08:11.719Z,6.61,470.2,29.73,23.8,⚠️  Adulterated — Water Dilution,High,102.7,0.31,6.2,none
+2026-05-17T16:08:12.720Z,6.61,471.6,29.71,23.7,⚠️  Adulterated — Water Dilution,High,103.3,0.31,6.2,none
+2026-05-17T16:08:13.722Z,6.61,472.8,29.7,23.7,⚠️  Adulterated — Water Dilution,High,103.8,0.31,6.2,none
+2026-05-17T16:08:14.724Z,6.61,474,29.7,23.7,⚠️  Adulterated — Water Dilution,High,104.3,0.31,6.2,none
+2026-05-17T16:08:15.540Z,6.61,474.8,,23.8,⚠️  Adulterated — Water Dilution,High,104.7,0.31,6.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:16.237Z,6.59,475.2,,24,⚠️  Adulterated — Water Dilution,High,104.8,0.29,6.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:17.232Z,6.57,474.8,,24.2,⚠️  Adulterated — Water Dilution,High,104.7,0.27,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:18.233Z,6.55,474.6,,24.3,⚠️  Adulterated — Water Dilution,Medium,104.6,0.25,5.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:19.236Z,6.53,474.2,,24.4,⚠️  Adulterated — Water Dilution,Medium,104.4,0.23,5.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:20.237Z,6.51,473.8,,24.4,⚠️  Adulterated — Water Dilution,Medium,104.2,0.21,5.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:21.238Z,6.51,473.8,,24.4,⚠️  Adulterated — Water Dilution,Medium,104.2,0.21,5.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:22.240Z,6.51,474,,24.4,⚠️  Adulterated — Water Dilution,Medium,104.3,0.21,5.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:23.241Z,6.51,474,,24.3,⚠️  Adulterated — Water Dilution,Medium,104.3,0.21,5.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:24.243Z,6.52,474,,24.2,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,5.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:25.245Z,6.52,474,,24.2,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:26.246Z,6.52,474,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:27.248Z,6.52,474,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:28.249Z,6.52,474,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:29.251Z,6.52,474,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:30.253Z,6.52,474,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:31.254Z,6.52,474,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.3,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:32.256Z,6.52,473.8,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.2,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:33.257Z,6.52,473.4,,24.1,⚠️  Adulterated — Water Dilution,Medium,104.1,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:34.259Z,6.52,473.2,,24.1,⚠️  Adulterated — Water Dilution,Medium,104,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:35.260Z,6.52,473,,24.1,⚠️  Adulterated — Water Dilution,Medium,103.9,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:36.263Z,6.52,472.6,,24.1,⚠️  Adulterated — Water Dilution,Medium,103.7,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:37.263Z,6.52,472.6,,24.1,⚠️  Adulterated — Water Dilution,Medium,103.7,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:38.265Z,6.52,472.6,,24.1,⚠️  Adulterated — Water Dilution,Medium,103.7,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:39.268Z,6.52,472.4,,24.1,⚠️  Adulterated — Water Dilution,Medium,103.6,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:40.269Z,6.52,472.6,,24.1,⚠️  Adulterated — Water Dilution,Medium,103.7,0.22,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:41.558Z,6.52,472.8,29.69,24.2,⚠️  Adulterated — Water Dilution,Medium,103.8,0.22,6,none
+2026-05-17T16:08:43.021Z,6.52,473.4,,24.3,⚠️  Adulterated — Water Dilution,Medium,104.1,0.22,5.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:44.128Z,6.52,474.6,,24.5,⚠️  Adulterated — Water Dilution,Medium,104.6,0.22,5.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:08:44.984Z,6.51,475.8,29.69,24.7,⚠️  Adulterated — Water Dilution,Medium,105.1,0.21,5.6,none
+2026-05-17T16:08:45.985Z,6.5,476.2,29.69,25.9,❌ Adulterated — Detergent,Medium,105.3,0.2,4.9,none
+2026-05-17T16:08:46.988Z,6.49,476.6,29.7,27.3,⚠️  Adulterated — Water Dilution,Low,105.4,0.19,4.1,none
+2026-05-17T16:08:47.988Z,6.47,476.4,29.7,29.3,⚠️  Adulterated — Water Dilution,Low,105.3,0.17,2.8,none
+2026-05-17T16:08:48.990Z,6.47,475.8,29.7,31.1,⚠️  Adulterated — Water Dilution,Low,105.1,0.17,1.8,none
+2026-05-17T16:08:49.991Z,6.48,475.2,29.7,33.5,⚠️  Adulterated — Water Dilution,Low,104.8,0.18,0.3,none
+2026-05-17T16:08:50.994Z,6.48,475.4,29.7,34.4,⚠️  Adulterated — Water Dilution,Low,104.9,0.18,-0.2,none
+2026-05-17T16:08:51.995Z,6.49,475.8,29.69,35,⚠️  Adulterated — Water Dilution,Low,105.1,0.19,-0.6,none
+2026-05-17T16:08:52.996Z,6.49,476.2,29.69,34.5,⚠️  Adulterated — Water Dilution,Low,105.3,0.19,-0.3,none
+2026-05-17T16:08:53.998Z,6.49,476.6,29.69,34.5,⚠️  Adulterated — Water Dilution,Low,105.4,0.19,-0.3,none
+2026-05-17T16:08:55.000Z,6.49,476.8,29.69,34,⚠️  Adulterated — Water Dilution,Low,105.5,0.19,0,none
+2026-05-17T16:08:56.003Z,6.48,476.6,29.69,33.7,⚠️  Adulterated — Water Dilution,Low,105.4,0.18,0.2,none
+2026-05-17T16:08:57.004Z,6.48,476.4,29.7,33.3,⚠️  Adulterated — Water Dilution,Low,105.3,0.18,0.4,none
+2026-05-17T16:08:58.006Z,6.48,476.2,29.7,33.1,⚠️  Adulterated — Water Dilution,Low,105.3,0.18,0.5,none
+2026-05-17T16:08:59.007Z,6.48,476,29.7,32.7,⚠️  Adulterated — Water Dilution,Low,105.2,0.18,0.8,none
+2026-05-17T16:09:00.008Z,6.48,476,29.7,32.5,⚠️  Adulterated — Water Dilution,Low,105.2,0.18,0.9,none
+2026-05-17T16:09:01.010Z,6.48,476,29.7,32.8,⚠️  Adulterated — Water Dilution,Low,105.2,0.18,0.7,none
+2026-05-17T16:09:02.012Z,6.48,476.2,29.69,33,⚠️  Adulterated — Water Dilution,Low,105.3,0.18,0.6,none
+2026-05-17T16:09:03.014Z,6.47,476.4,29.69,33.7,⚠️  Adulterated — Water Dilution,Low,105.3,0.17,0.2,none
+2026-05-17T16:09:04.015Z,6.47,476.6,29.69,34.3,⚠️  Adulterated — Water Dilution,Low,105.4,0.17,-0.2,none
+2026-05-17T16:09:05.017Z,6.47,477,29.7,34.6,⚠️  Adulterated — Water Dilution,Low,105.6,0.17,-0.4,none
+2026-05-17T16:09:06.018Z,6.47,477.4,29.7,34.5,⚠️  Adulterated — Water Dilution,Low,105.8,0.17,-0.3,none
+2026-05-17T16:09:07.020Z,6.47,477.6,29.7,34.9,⚠️  Adulterated — Water Dilution,Low,105.9,0.17,-0.5,none
+2026-05-17T16:09:07.530Z,6.46,477.2,,35,⚠️  Adulterated — Water Dilution,Low,105.7,0.16,-0.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:09:09.023Z,6.64,476.6,29.7,35.8,⚠️  Adulterated — Water Dilution,Medium,105.4,0.34,-1.1,none
+2026-05-17T16:09:10.024Z,6.67,476.2,29.69,35.8,⚠️  Adulterated — Water Dilution,Medium,105.3,0.37,-1.1,none
+2026-05-17T16:09:11.026Z,6.71,476.4,29.68,35.7,⚠️  Adulterated — Water Dilution,Medium,105.3,0.41,-1,none
+2026-05-17T16:09:12.028Z,6.75,476.6,29.69,35.3,⚠️  Adulterated — Water Dilution,Medium,105.4,0.45,-0.8,none
+2026-05-17T16:09:13.029Z,6.81,477.4,29.69,34.5,⚠️  Adulterated — Water Dilution,Medium,105.8,0.51,-0.3,none
+2026-05-17T16:09:14.031Z,6.67,478.6,29.69,33.1,⚠️  Adulterated — Water Dilution,Medium,106.3,0.37,0.6,none
+2026-05-17T16:09:15.032Z,6.69,479.2,29.7,32.5,⚠️  Adulterated — Water Dilution,Medium,106.6,0.39,0.9,none
+2026-05-17T16:09:16.034Z,6.7,479.2,29.7,32.1,⚠️  Adulterated — Water Dilution,Medium,106.6,0.4,1.1,none
+2026-05-17T16:09:17.035Z,6.71,479.2,29.69,31.9,⚠️  Adulterated — Water Dilution,Medium,106.6,0.41,1.2,none
+2026-05-17T16:09:18.037Z,6.71,479.2,29.69,31.7,⚠️  Adulterated — Water Dilution,Medium,106.6,0.41,1.4,none
+2026-05-17T16:09:19.039Z,6.71,479,29.69,31.6,⚠️  Adulterated — Water Dilution,Medium,106.5,0.41,1.4,none
+2026-05-17T16:09:20.039Z,6.72,478.8,29.7,31.3,⚠️  Adulterated — Water Dilution,Medium,106.4,0.42,1.6,none
+2026-05-17T16:09:21.042Z,6.72,478.6,29.71,31,⚠️  Adulterated — Water Dilution,Medium,106.3,0.42,1.8,none
+2026-05-17T16:09:22.043Z,6.73,478.4,29.73,30.8,⚠️  Adulterated — Water Dilution,Medium,106.2,0.43,1.9,none
+2026-05-17T16:09:23.045Z,6.73,478.2,29.73,30.8,⚠️  Adulterated — Water Dilution,Medium,106.1,0.43,2,none
+2026-05-17T16:09:24.046Z,6.74,478.2,29.73,30.7,⚠️  Adulterated — Water Dilution,Medium,106.1,0.44,2,none
+2026-05-17T16:09:25.048Z,6.74,478.4,29.73,30.7,⚠️  Adulterated — Water Dilution,Medium,106.2,0.44,2,none
+2026-05-17T16:09:26.049Z,6.74,478.6,29.73,30.6,⚠️  Adulterated — Water Dilution,Medium,106.3,0.44,2,none
+2026-05-17T16:09:27.051Z,6.74,478.8,29.73,30.6,⚠️  Adulterated — Water Dilution,Medium,106.4,0.44,2.1,none
+2026-05-17T16:09:28.054Z,6.74,478.8,29.73,30.5,⚠️  Adulterated — Water Dilution,Medium,106.4,0.44,2.1,none
+2026-05-17T16:09:29.054Z,6.74,478.6,29.73,30.4,⚠️  Adulterated — Water Dilution,Medium,106.3,0.44,2.2,none
+2026-05-17T16:09:30.056Z,6.74,478.4,29.73,30.4,⚠️  Adulterated — Water Dilution,Medium,106.2,0.44,2.2,none
+2026-05-17T16:09:31.057Z,6.74,478.2,29.73,30.5,⚠️  Adulterated — Water Dilution,Medium,106.1,0.44,2.1,none
+2026-05-17T16:09:32.059Z,6.74,478.2,29.73,30.6,⚠️  Adulterated — Water Dilution,Medium,106.1,0.44,2.1,none
+2026-05-17T16:09:33.061Z,6.75,478.4,29.74,30.6,⚠️  Adulterated — Water Dilution,Medium,106.2,0.45,2,none
+2026-05-17T16:09:34.062Z,6.75,478.6,29.75,30.6,⚠️  Adulterated — Water Dilution,Medium,106.3,0.45,2,none
+2026-05-17T16:09:35.064Z,6.75,478.8,29.75,30.6,⚠️  Adulterated — Water Dilution,Medium,106.4,0.45,2,none
+2026-05-17T16:09:36.066Z,6.75,479,29.74,30.6,⚠️  Adulterated — Water Dilution,Medium,106.5,0.45,2.1,none
+2026-05-17T16:09:37.067Z,6.75,479,29.74,30.6,⚠️  Adulterated — Water Dilution,Medium,106.5,0.45,2.1,none
+2026-05-17T16:09:38.068Z,6.75,479.2,29.74,30.5,⚠️  Adulterated — Water Dilution,Medium,106.6,0.45,2.1,none
+2026-05-17T16:09:39.071Z,6.75,479.6,29.73,30.4,⚠️  Adulterated — Water Dilution,Medium,106.7,0.45,2.2,none
+2026-05-17T16:09:40.071Z,6.75,480.2,29.73,30.2,⚠️  Adulterated — Water Dilution,Medium,107,0.45,2.3,none
+2026-05-17T16:09:41.074Z,6.75,481,29.74,30.1,⚠️  Adulterated — Water Dilution,Medium,107.3,0.45,2.4,none
+2026-05-17T16:09:42.074Z,6.74,481.8,29.73,29.9,⚠️  Adulterated — Water Dilution,Medium,107.7,0.44,2.5,none
+2026-05-17T16:09:43.077Z,6.74,482.2,29.71,29.8,⚠️  Adulterated — Water Dilution,Medium,107.8,0.44,2.6,none
+2026-05-17T16:09:44.079Z,6.74,482.4,29.71,29.7,⚠️  Adulterated — Water Dilution,Medium,107.9,0.44,2.6,none
+2026-05-17T16:09:45.079Z,6.74,482.4,29.71,29.6,⚠️  Adulterated — Water Dilution,Medium,107.9,0.44,2.6,none
+2026-05-17T16:09:46.081Z,6.75,482.2,29.7,29.6,⚠️  Adulterated — Water Dilution,Medium,107.8,0.45,2.6,none
+2026-05-17T16:09:47.083Z,6.75,482.2,29.71,29.6,⚠️  Adulterated — Water Dilution,Medium,107.8,0.45,2.6,none
+2026-05-17T16:09:48.085Z,6.75,482.4,29.71,30,⚠️  Adulterated — Water Dilution,Medium,107.9,0.45,2.4,none
+2026-05-17T16:13:31.544Z,6.96,483.6,29.48,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:32.544Z,7.16,485.2,29.21,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:33.547Z,7.36,487,28.98,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:34.548Z,7.56,489,28.73,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:35.550Z,7.76,491.2,28.49,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:36.551Z,7.74,492.4,28.48,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:37.553Z,7.73,493.4,28.49,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:38.555Z,7.72,494.2,28.49,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:39.556Z,7.71,495,28.49,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:40.558Z,7.7,496.2,28.49,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:41.559Z,7.69,497.6,28.5,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:42.561Z,7.69,498.8,28.5,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:43.562Z,7.57,502.8,28.5,,Sensor fault — cannot determine,None,,,,GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:44.235Z,7.56,504.4,,,Sensor fault — cannot determine,None,,,,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up|GAS_SENSOR_FAULT — check A2 wiring
+2026-05-17T16:13:45.565Z,7.35,508.6,28.54,28.8,⚠️  Adulterated — Water Dilution,Medium,119.2,1.05,3.2,none
+2026-05-17T16:13:46.566Z,7.14,512,28.58,26.6,⚠️  Adulterated — Water Dilution,Medium,120.7,0.84,4.5,none
+2026-05-17T16:13:47.568Z,6.96,512.6,28.6,23,⚠️  Adulterated — Water Dilution,High,120.9,0.66,6.7,none
+2026-05-17T16:13:48.162Z,6.92,511.2,,19.2,⚠️  Adulterated — Water Dilution,High,120.3,0.62,9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:13:49.571Z,6.77,511.2,28.64,15.5,⚠️  Adulterated — Water Dilution,High,120.3,0.47,11.2,none
+2026-05-17T16:13:50.572Z,6.83,507.8,28.66,13.5,⚠️  Adulterated — Water Dilution,High,118.9,0.53,12.4,none
+2026-05-17T16:13:51.574Z,6.87,505.2,28.65,12.4,⚠️  Adulterated — Water Dilution,High,117.8,0.57,13.1,none
+2026-05-17T16:13:52.575Z,6.9,505.4,28.65,12.7,⚠️  Adulterated — Water Dilution,High,117.8,0.6,12.9,none
+2026-05-17T16:13:53.577Z,6.9,505,28.65,13.3,⚠️  Adulterated — Water Dilution,High,117.7,0.6,12.6,none
+2026-05-17T16:13:54.579Z,6.89,505.4,28.63,13.4,⚠️  Adulterated — Water Dilution,High,117.8,0.59,12.5,none
+2026-05-17T16:13:55.580Z,6.89,506.2,28.65,13.7,⚠️  Adulterated — Water Dilution,High,118.2,0.59,12.3,none
+2026-05-17T16:13:56.582Z,6.87,507.2,28.66,14.3,⚠️  Adulterated — Water Dilution,High,118.6,0.57,12,none
+2026-05-17T16:13:57.584Z,6.84,508.4,28.66,14.9,⚠️  Adulterated — Water Dilution,High,119.1,0.54,11.6,none
+2026-05-17T16:13:58.585Z,6.82,509.4,28.66,15.4,⚠️  Adulterated — Water Dilution,High,119.6,0.52,11.2,none
+2026-05-17T16:13:59.587Z,6.8,510.2,28.68,16,⚠️  Adulterated — Water Dilution,High,119.9,0.5,10.9,none
+2026-05-17T16:14:00.588Z,6.78,510.8,28.68,16.4,⚠️  Adulterated — Water Dilution,High,120.2,0.48,10.6,none
+2026-05-17T16:14:01.590Z,6.77,511.4,28.68,16.5,⚠️  Adulterated — Water Dilution,High,120.4,0.47,10.6,none
+2026-05-17T16:14:02.592Z,6.76,511.6,28.66,16.5,⚠️  Adulterated — Water Dilution,High,120.5,0.46,10.6,none
+2026-05-17T16:14:03.594Z,6.76,512,28.66,16.4,⚠️  Adulterated — Water Dilution,High,120.7,0.46,10.6,none
+2026-05-17T16:14:04.594Z,6.76,512.6,28.65,16.4,⚠️  Adulterated — Water Dilution,High,120.9,0.46,10.7,none
+2026-05-17T16:14:05.596Z,6.77,513.2,28.65,16.2,⚠️  Adulterated — Water Dilution,High,121.2,0.47,10.8,none
+2026-05-17T16:14:06.597Z,6.77,513.6,28.65,16.2,⚠️  Adulterated — Water Dilution,High,121.4,0.47,10.8,none
+2026-05-17T16:14:07.600Z,6.77,514.2,28.65,16.3,⚠️  Adulterated — Water Dilution,High,121.6,0.47,10.7,none
+2026-05-17T16:14:08.601Z,6.77,514.8,28.66,16.3,⚠️  Adulterated — Water Dilution,High,121.9,0.47,10.7,none
+2026-05-17T16:14:09.602Z,6.77,515.2,28.68,16.4,⚠️  Adulterated — Water Dilution,High,122.1,0.47,10.7,none
+2026-05-17T16:14:10.604Z,6.77,515.8,28.68,16.4,⚠️  Adulterated — Water Dilution,High,122.3,0.47,10.6,none
+2026-05-17T16:14:11.606Z,6.77,516.6,28.68,16.4,⚠️  Adulterated — Water Dilution,High,122.7,0.47,10.6,none
+2026-05-17T16:14:12.608Z,6.77,517.2,28.69,16.4,⚠️  Adulterated — Water Dilution,High,122.9,0.47,10.6,none
+2026-05-17T16:14:13.608Z,6.77,517.8,28.69,16.4,⚠️  Adulterated — Water Dilution,High,123.2,0.47,10.6,none
+2026-05-17T16:14:14.611Z,6.76,518.6,28.69,16.4,⚠️  Adulterated — Water Dilution,High,123.5,0.46,10.6,none
+2026-05-17T16:14:15.611Z,6.76,519.4,28.68,16.4,⚠️  Adulterated — Water Dilution,High,123.9,0.46,10.6,none
+2026-05-17T16:14:16.613Z,6.72,517.8,28.68,16.4,⚠️  Adulterated — Water Dilution,High,123.2,0.42,10.6,none
+2026-05-17T16:14:17.615Z,6.72,517.8,28.68,16.2,⚠️  Adulterated — Water Dilution,High,123.2,0.42,10.8,none
+2026-05-17T16:14:18.616Z,6.71,517.8,28.68,16,⚠️  Adulterated — Water Dilution,High,123.2,0.41,10.9,none
+2026-05-17T16:14:19.619Z,6.72,517.6,28.68,15.8,⚠️  Adulterated — Water Dilution,High,123.1,0.42,11,none
+2026-05-17T16:14:20.619Z,6.71,517.6,28.69,15.8,⚠️  Adulterated — Water Dilution,High,123.1,0.41,11,none
+2026-05-17T16:14:21.622Z,6.74,519.6,28.69,15.7,⚠️  Adulterated — Water Dilution,High,124,0.44,11.1,none
+2026-05-17T16:14:22.623Z,6.74,520.4,28.69,15.9,⚠️  Adulterated — Water Dilution,High,124.3,0.44,11,none
+2026-05-17T16:14:23.624Z,6.73,521.2,28.69,16.2,⚠️  Adulterated — Water Dilution,High,124.7,0.43,10.8,none
+2026-05-17T16:14:24.626Z,6.71,522,28.69,16.4,⚠️  Adulterated — Water Dilution,High,125,0.41,10.7,none
+2026-05-17T16:14:25.627Z,6.71,522.4,28.69,16.4,⚠️  Adulterated — Water Dilution,High,125.2,0.41,10.7,none
+2026-05-17T16:14:26.629Z,6.71,523,28.69,16.4,⚠️  Adulterated — Water Dilution,High,125.4,0.41,10.6,none
+2026-05-17T16:14:27.630Z,6.71,523.4,28.7,16.4,⚠️  Adulterated — Water Dilution,High,125.6,0.41,10.6,none
+2026-05-17T16:14:28.632Z,6.71,523.6,28.7,16.4,⚠️  Adulterated — Water Dilution,High,125.7,0.41,10.7,none
+2026-05-17T16:14:29.633Z,6.71,523.6,28.7,16.3,⚠️  Adulterated — Water Dilution,High,125.7,0.41,10.7,none
+2026-05-17T16:14:30.635Z,6.71,524,28.7,16.4,⚠️  Adulterated — Water Dilution,High,125.9,0.41,10.7,none
+2026-05-17T16:14:31.637Z,6.71,524.2,28.7,16.3,⚠️  Adulterated — Water Dilution,High,125.9,0.41,10.7,none
+2026-05-17T16:14:32.638Z,6.71,524.4,28.69,16.2,⚠️  Adulterated — Water Dilution,High,126,0.41,10.8,none
+2026-05-17T16:14:33.641Z,6.71,524.6,28.69,16.2,⚠️  Adulterated — Water Dilution,High,126.1,0.41,10.8,none
+2026-05-17T16:14:34.642Z,6.71,525.2,28.7,16.2,⚠️  Adulterated — Water Dilution,High,126.4,0.41,10.8,none
+2026-05-17T16:14:35.643Z,6.72,525.4,28.7,16.2,⚠️  Adulterated — Water Dilution,High,126.5,0.42,10.8,none
+2026-05-17T16:14:36.645Z,6.72,525.6,28.71,16.3,⚠️  Adulterated — Water Dilution,High,126.6,0.42,10.7,none
+2026-05-17T16:14:37.647Z,6.72,526.2,28.73,16.4,⚠️  Adulterated — Water Dilution,High,126.8,0.42,10.7,none
+2026-05-17T16:14:38.647Z,6.71,526.8,28.73,16.4,⚠️  Adulterated — Water Dilution,High,127.1,0.41,10.6,none
+2026-05-17T16:14:39.650Z,6.71,527.2,28.71,16.4,⚠️  Adulterated — Water Dilution,High,127.2,0.41,10.6,none
+2026-05-17T16:14:40.651Z,6.71,527.6,28.73,16.4,⚠️  Adulterated — Water Dilution,High,127.4,0.41,10.6,none
+2026-05-17T16:14:41.653Z,6.71,528.2,28.73,16.4,⚠️  Adulterated — Water Dilution,High,127.7,0.41,10.7,none
+2026-05-17T16:14:42.655Z,6.71,528.4,28.71,16.4,⚠️  Adulterated — Water Dilution,High,127.8,0.41,10.7,none
+2026-05-17T16:14:43.656Z,6.7,528.4,28.73,16.3,⚠️  Adulterated — Water Dilution,High,127.8,0.4,10.7,none
+2026-05-17T16:14:44.658Z,6.72,528.2,28.74,15.9,⚠️  Adulterated — Water Dilution,High,127.7,0.42,11,none
+2026-05-17T16:14:45.659Z,6.74,528,28.74,15.4,⚠️  Adulterated — Water Dilution,High,127.6,0.44,11.3,none
+2026-05-17T16:14:46.661Z,6.77,527.6,28.73,14.9,⚠️  Adulterated — Water Dilution,High,127.4,0.47,11.6,none
+2026-05-17T16:14:47.662Z,6.79,527.2,28.73,14.5,⚠️  Adulterated — Water Dilution,High,127.2,0.49,11.8,none
+2026-05-17T16:14:48.664Z,6.82,527,28.73,14.1,⚠️  Adulterated — Water Dilution,High,127.2,0.52,12.1,none
+2026-05-17T16:14:49.666Z,6.83,527.2,28.73,14.1,⚠️  Adulterated — Water Dilution,High,127.2,0.53,12,none
+2026-05-17T16:14:50.667Z,6.83,527.4,28.73,14.3,⚠️  Adulterated — Water Dilution,High,127.3,0.53,12,none
+2026-05-17T16:14:51.669Z,6.82,527.6,28.74,14.3,⚠️  Adulterated — Water Dilution,High,127.4,0.52,11.9,none
+2026-05-17T16:14:52.670Z,6.82,527.8,28.75,14.3,⚠️  Adulterated — Water Dilution,High,127.5,0.52,11.9,none
+2026-05-17T16:14:53.672Z,6.83,528,28.75,14.3,⚠️  Adulterated — Water Dilution,High,127.6,0.53,11.9,none
+2026-05-17T16:14:54.673Z,6.83,528,28.75,14.3,⚠️  Adulterated — Water Dilution,High,127.6,0.53,12,none
+2026-05-17T16:14:55.675Z,6.83,528,28.75,14.2,⚠️  Adulterated — Water Dilution,High,127.6,0.53,12,none
+2026-05-17T16:14:56.676Z,6.83,528,28.74,14.2,⚠️  Adulterated — Water Dilution,High,127.6,0.53,12,none
+2026-05-17T16:14:57.678Z,6.83,527.8,28.74,14.2,⚠️  Adulterated — Water Dilution,High,127.5,0.53,12,none
+2026-05-17T16:14:58.680Z,6.83,527.8,28.73,14.1,⚠️  Adulterated — Water Dilution,High,127.5,0.53,12,none
+2026-05-17T16:14:59.681Z,6.84,527.8,28.73,14.1,⚠️  Adulterated — Water Dilution,High,127.5,0.54,12.1,none
+2026-05-17T16:15:00.683Z,6.84,527.8,28.73,14.1,⚠️  Adulterated — Water Dilution,High,127.5,0.54,12.1,none
+2026-05-17T16:15:01.685Z,6.84,527.8,28.74,14.1,⚠️  Adulterated — Water Dilution,High,127.5,0.54,12.1,none
+2026-05-17T16:15:02.687Z,6.84,528,28.74,14.1,⚠️  Adulterated — Water Dilution,High,127.6,0.54,12.1,none
+2026-05-17T16:15:03.688Z,6.84,528,28.75,14.1,⚠️  Adulterated — Water Dilution,High,127.6,0.54,12,none
+2026-05-17T16:15:04.689Z,6.83,528,28.75,14.2,⚠️  Adulterated — Water Dilution,High,127.6,0.53,12,none
+2026-05-17T16:15:05.692Z,6.83,528.2,28.75,14.3,⚠️  Adulterated — Water Dilution,High,127.7,0.53,12,none
+2026-05-17T16:15:06.693Z,6.83,528.6,28.76,14.3,⚠️  Adulterated — Water Dilution,High,127.8,0.53,11.9,none
+2026-05-17T16:15:07.695Z,6.83,529,28.76,14.4,⚠️  Adulterated — Water Dilution,High,128,0.53,11.9,none
+2026-05-17T16:15:08.695Z,6.82,529.4,28.77,14.5,⚠️  Adulterated — Water Dilution,High,128.2,0.52,11.8,none
+2026-05-17T16:15:09.697Z,6.82,530,28.77,14.5,⚠️  Adulterated — Water Dilution,High,128.4,0.52,11.8,none
+2026-05-17T16:15:10.699Z,6.82,530.4,28.77,14.5,⚠️  Adulterated — Water Dilution,High,128.6,0.52,11.8,none
+2026-05-17T16:15:11.700Z,6.82,531,28.76,14.5,⚠️  Adulterated — Water Dilution,High,128.9,0.52,11.8,none
+2026-05-17T16:15:12.702Z,6.82,531.6,28.77,14.6,⚠️  Adulterated — Water Dilution,High,129.1,0.52,11.8,none
+2026-05-17T16:15:13.703Z,6.81,532.4,28.77,14.7,⚠️  Adulterated — Water Dilution,High,129.5,0.51,11.7,none
+2026-05-17T16:15:14.706Z,6.81,533.2,28.77,14.7,⚠️  Adulterated — Water Dilution,High,129.8,0.51,11.7,none
+2026-05-17T16:15:15.707Z,6.8,534,28.77,14.8,⚠️  Adulterated — Water Dilution,High,130.2,0.5,11.6,none
+2026-05-17T16:15:16.709Z,6.8,534.6,28.77,14.9,⚠️  Adulterated — Water Dilution,High,130.4,0.5,11.6,none
+2026-05-17T16:15:17.710Z,6.8,535.2,28.77,14.9,⚠️  Adulterated — Water Dilution,High,130.7,0.5,11.6,none
+2026-05-17T16:15:18.711Z,6.8,535.6,28.76,14.9,⚠️  Adulterated — Water Dilution,High,130.9,0.5,11.6,none
+2026-05-17T16:15:19.713Z,6.8,535.8,28.76,14.9,⚠️  Adulterated — Water Dilution,High,130.9,0.5,11.6,none
+2026-05-17T16:15:20.715Z,6.8,536.2,28.76,15,⚠️  Adulterated — Water Dilution,High,131.1,0.5,11.5,none
+2026-05-17T16:15:21.717Z,6.8,536.4,28.76,15,⚠️  Adulterated — Water Dilution,High,131.2,0.5,11.5,none
+2026-05-17T16:15:22.718Z,6.8,536.6,28.75,15.1,⚠️  Adulterated — Water Dilution,High,131.3,0.5,11.4,none
+2026-05-17T16:15:23.719Z,6.8,536.8,28.75,15.2,⚠️  Adulterated — Water Dilution,High,131.4,0.5,11.4,none
+2026-05-17T16:15:24.721Z,6.8,537,28.75,15.2,⚠️  Adulterated — Water Dilution,High,131.5,0.5,11.4,none
+2026-05-17T16:15:25.723Z,6.8,537.2,28.75,15.2,⚠️  Adulterated — Water Dilution,High,131.6,0.5,11.4,none
+2026-05-17T16:15:26.724Z,6.8,537.2,28.75,15.2,⚠️  Adulterated — Water Dilution,High,131.6,0.5,11.4,none
+2026-05-17T16:15:27.726Z,6.8,537.4,28.75,15.2,⚠️  Adulterated — Water Dilution,High,131.6,0.5,11.4,none
+2026-05-17T16:15:28.727Z,6.8,537.6,28.75,15.2,⚠️  Adulterated — Water Dilution,High,131.7,0.5,11.4,none
+2026-05-17T16:15:29.728Z,6.8,537.8,28.75,15.1,⚠️  Adulterated — Water Dilution,High,131.8,0.5,11.4,none
+2026-05-17T16:15:30.731Z,6.8,538,28.75,15,⚠️  Adulterated — Water Dilution,High,131.9,0.5,11.5,none
+2026-05-17T16:15:31.732Z,6.8,538.4,28.75,15,⚠️  Adulterated — Water Dilution,High,132.1,0.5,11.5,none
+2026-05-17T16:15:32.734Z,6.8,538.8,28.75,14.9,⚠️  Adulterated — Water Dilution,High,132.2,0.5,11.6,none
+2026-05-17T16:15:33.735Z,6.8,539.2,28.75,14.9,⚠️  Adulterated — Water Dilution,High,132.4,0.5,11.6,none
+2026-05-17T16:15:34.737Z,6.8,539.8,28.75,14.9,⚠️  Adulterated — Water Dilution,High,132.7,0.5,11.6,none
+2026-05-17T16:15:35.738Z,6.8,540.4,28.75,14.9,⚠️  Adulterated — Water Dilution,High,132.9,0.5,11.6,none
+2026-05-17T16:15:36.740Z,6.8,541.2,28.76,14.9,⚠️  Adulterated — Water Dilution,High,133.3,0.5,11.6,none
+2026-05-17T16:15:37.742Z,6.8,542,28.76,14.9,⚠️  Adulterated — Water Dilution,High,133.6,0.5,11.6,none
+2026-05-17T16:15:38.743Z,6.8,542.8,28.76,14.9,⚠️  Adulterated — Water Dilution,High,134,0.5,11.6,none
+2026-05-17T16:15:39.745Z,6.8,543.4,28.76,14.9,⚠️  Adulterated — Water Dilution,High,134.2,0.5,11.6,none
+2026-05-17T16:15:40.746Z,6.8,544,28.77,14.9,⚠️  Adulterated — Water Dilution,High,134.5,0.5,11.6,none
+2026-05-17T16:15:41.748Z,6.8,544.4,28.77,14.9,⚠️  Adulterated — Water Dilution,High,134.7,0.5,11.6,none
+2026-05-17T16:15:42.749Z,6.8,544.6,28.77,14.9,⚠️  Adulterated — Water Dilution,High,134.7,0.5,11.6,none
+2026-05-17T16:15:43.751Z,6.8,544.8,28.79,14.9,⚠️  Adulterated — Water Dilution,High,134.8,0.5,11.6,none
+2026-05-17T16:15:44.752Z,6.8,545,28.8,14.9,⚠️  Adulterated — Water Dilution,High,134.9,0.5,11.6,none
+2026-05-17T16:15:45.754Z,6.8,545,28.79,14.9,⚠️  Adulterated — Water Dilution,High,134.9,0.5,11.6,none
+2026-05-17T16:15:46.756Z,6.8,545,28.77,14.9,⚠️  Adulterated — Water Dilution,High,134.9,0.5,11.6,none
+2026-05-17T16:15:47.757Z,6.8,545.2,28.79,14.9,⚠️  Adulterated — Water Dilution,High,135,0.5,11.6,none
+2026-05-17T16:15:48.759Z,6.8,545.6,28.79,14.9,⚠️  Adulterated — Water Dilution,High,135.2,0.5,11.6,none
+2026-05-17T16:15:49.760Z,6.8,546.2,28.79,14.9,⚠️  Adulterated — Water Dilution,High,135.4,0.5,11.6,none
+2026-05-17T16:15:50.762Z,6.8,546.8,28.8,14.9,⚠️  Adulterated — Water Dilution,High,135.7,0.5,11.6,none
+2026-05-17T16:15:51.763Z,6.8,547.4,28.81,14.9,⚠️  Adulterated — Water Dilution,High,135.9,0.5,11.6,none
+2026-05-17T16:15:52.765Z,6.8,547.8,28.81,14.9,⚠️  Adulterated — Water Dilution,High,136.1,0.5,11.6,none
+2026-05-17T16:15:53.767Z,6.8,548.2,28.81,14.9,⚠️  Adulterated — Water Dilution,High,136.3,0.5,11.6,none
+2026-05-17T16:15:54.768Z,6.8,548.4,28.81,14.9,⚠️  Adulterated — Water Dilution,High,136.4,0.5,11.6,none
+2026-05-17T16:15:55.770Z,6.81,548.6,28.81,14.9,⚠️  Adulterated — Water Dilution,High,136.5,0.51,11.6,none
+2026-05-17T16:15:56.771Z,6.81,549,28.81,14.9,⚠️  Adulterated — Water Dilution,High,136.6,0.51,11.6,none
+2026-05-17T16:15:57.774Z,6.81,549.4,28.81,14.9,⚠️  Adulterated — Water Dilution,High,136.8,0.51,11.6,none
+2026-05-17T16:15:58.775Z,6.81,549.6,28.81,14.9,⚠️  Adulterated — Water Dilution,High,136.9,0.51,11.6,none
+2026-05-17T16:15:59.776Z,6.81,550,28.81,14.9,⚠️  Adulterated — Water Dilution,High,137.1,0.51,11.6,none
+2026-05-17T16:16:00.778Z,6.81,550.6,28.81,14.9,⚠️  Adulterated — Water Dilution,High,137.3,0.51,11.6,none
+2026-05-17T16:16:01.780Z,6.81,551.2,28.81,14.9,⚠️  Adulterated — Water Dilution,High,137.6,0.51,11.6,none
+2026-05-17T16:16:02.781Z,6.81,551.8,28.81,14.9,⚠️  Adulterated — Water Dilution,High,137.8,0.51,11.6,none
+2026-05-17T16:16:03.782Z,6.81,552.4,28.81,14.9,⚠️  Adulterated — Water Dilution,High,138.1,0.51,11.6,none
+2026-05-17T16:16:04.784Z,6.81,553,28.81,14.9,⚠️  Adulterated — Water Dilution,High,138.4,0.51,11.6,none
+2026-05-17T16:16:05.786Z,6.81,553.4,28.81,14.9,⚠️  Adulterated — Water Dilution,High,138.5,0.51,11.6,none
+2026-05-17T16:16:06.787Z,6.81,553.6,28.81,14.9,⚠️  Adulterated — Water Dilution,High,138.6,0.51,11.6,none
+2026-05-17T16:16:07.788Z,6.81,554,28.81,14.8,⚠️  Adulterated — Water Dilution,High,138.8,0.51,11.6,none
+2026-05-17T16:16:08.791Z,6.81,554.4,28.81,14.8,⚠️  Adulterated — Water Dilution,High,139,0.51,11.6,none
+2026-05-17T16:16:09.792Z,6.81,554.8,28.82,14.8,⚠️  Adulterated — Water Dilution,High,139.1,0.51,11.6,none
+2026-05-17T16:16:10.793Z,6.81,555.2,28.82,14.8,⚠️  Adulterated — Water Dilution,High,139.3,0.51,11.6,none
+2026-05-17T16:16:11.795Z,6.81,555.6,28.83,14.8,⚠️  Adulterated — Water Dilution,High,139.5,0.51,11.6,none
+2026-05-17T16:16:12.797Z,6.81,556,28.85,14.8,⚠️  Adulterated — Water Dilution,High,139.7,0.51,11.6,none
+2026-05-17T16:16:13.799Z,6.8,556.4,28.85,14.7,⚠️  Adulterated — Water Dilution,High,139.8,0.5,11.7,none
+2026-05-17T16:16:14.799Z,6.8,556.8,28.83,14.7,⚠️  Adulterated — Water Dilution,High,140,0.5,11.7,none
+2026-05-17T16:16:15.801Z,6.8,557.4,28.83,14.6,⚠️  Adulterated — Water Dilution,High,140.3,0.5,11.8,none
+2026-05-17T16:16:16.803Z,6.81,558.2,28.82,14.5,⚠️  Adulterated — Water Dilution,High,140.6,0.51,11.8,none
+2026-05-17T16:16:17.805Z,6.81,558.8,28.81,14.6,⚠️  Adulterated — Water Dilution,High,140.9,0.51,11.8,none
+2026-05-17T16:16:18.807Z,6.81,559.2,28.81,14.7,⚠️  Adulterated — Water Dilution,High,141,0.51,11.7,none
+2026-05-17T16:16:19.808Z,6.8,559.4,28.82,14.7,⚠️  Adulterated — Water Dilution,High,141.1,0.5,11.7,none
+2026-05-17T16:16:20.810Z,6.79,559.6,28.83,14.8,⚠️  Adulterated — Water Dilution,High,141.2,0.49,11.6,none
+2026-05-17T16:16:21.811Z,6.79,559.6,28.83,14.9,⚠️  Adulterated — Water Dilution,High,141.2,0.49,11.6,none
+2026-05-17T16:16:22.813Z,6.78,559.6,28.85,14.8,⚠️  Adulterated — Water Dilution,High,141.2,0.48,11.6,none
+2026-05-17T16:16:23.814Z,6.78,560,28.85,14.7,⚠️  Adulterated — Water Dilution,High,141.4,0.48,11.7,none
+2026-05-17T16:16:24.816Z,6.78,560.4,28.85,14.7,⚠️  Adulterated — Water Dilution,High,141.6,0.48,11.7,none
+2026-05-17T16:16:25.818Z,6.79,560.6,28.83,14.7,⚠️  Adulterated — Water Dilution,High,141.6,0.49,11.7,none
+2026-05-17T16:16:26.819Z,6.79,560.8,28.83,14.7,⚠️  Adulterated — Water Dilution,High,141.7,0.49,11.7,none

@@ -1,0 +1,428 @@
+timestamp,ph,turb,temp,gas,result,confidence,turbDev,phDev,gasDev,errors
+2026-05-17T15:56:53.104Z,6.98,246,,23.4,⚠️  Adulterated — Water Dilution,Medium,6,0.68,6.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:56:53.106Z,6.96,247,,23.6,⚠️  Adulterated — Water Dilution,Medium,6.5,0.66,6.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:56:57.569Z,6.93,250.3,,23.9,⚠️  Adulterated — Water Dilution,Medium,7.9,0.63,6.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:56:58.135Z,6.9,252,,24,⚠️  Adulterated — Water Dilution,Medium,8.6,0.6,6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:56:59.633Z,6.89,253.4,29.94,24,⚠️  Adulterated — Water Dilution,Medium,9.2,0.59,6,none
+2026-05-17T15:57:00.633Z,6.86,256,29.97,24.2,⚠️  Adulterated — Water Dilution,Medium,10.3,0.56,6,none
+2026-05-17T15:57:01.635Z,6.83,258.2,29.98,24.3,⚠️  Adulterated — Water Dilution,Medium,11.3,0.53,5.9,none
+2026-05-17T15:57:02.637Z,6.82,258.8,29.97,24.4,⚠️  Adulterated — Water Dilution,Medium,11.6,0.52,5.8,none
+2026-05-17T15:57:03.142Z,6.82,259.8,,24.4,⚠️  Adulterated — Water Dilution,Medium,12,0.52,5.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:04.144Z,6.81,260.6,,24.5,⚠️  Adulterated — Water Dilution,Medium,12.3,0.51,5.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:05.145Z,6.8,261.6,,24.6,⚠️  Adulterated — Water Dilution,Medium,12.8,0.5,5.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:06.147Z,6.79,262.8,,24.7,⚠️  Adulterated — Water Dilution,Medium,13.3,0.49,5.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:07.149Z,6.78,264,,24.8,⚠️  Adulterated — Water Dilution,Medium,13.8,0.48,5.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:08.150Z,6.77,265,,24.8,⚠️  Adulterated — Water Dilution,Medium,14.2,0.47,5.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:09.152Z,6.76,266,,24.9,⚠️  Adulterated — Water Dilution,Medium,14.7,0.46,5.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:10.176Z,6.75,267,29.96,25,⚠️  Adulterated — Water Dilution,Medium,15.1,0.45,5.5,none
+2026-05-17T15:57:11.652Z,6.75,267.8,29.96,25,⚠️  Adulterated — Water Dilution,Medium,15.4,0.45,5.5,none
+2026-05-17T15:57:12.653Z,6.74,268.8,29.95,25,⚠️  Adulterated — Water Dilution,Medium,15.9,0.44,5.4,none
+2026-05-17T15:57:13.159Z,6.74,269.8,,25.1,⚠️  Adulterated — Water Dilution,Medium,16.3,0.44,5.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:14.160Z,6.73,270.6,,25.2,⚠️  Adulterated — Water Dilution,Medium,16.6,0.43,5.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:15.161Z,6.73,271.4,,25.2,⚠️  Adulterated — Water Dilution,Medium,17,0.43,5.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:16.162Z,6.71,273,,25.3,⚠️  Adulterated — Water Dilution,Medium,17.7,0.41,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:17.165Z,6.7,274.4,,25.5,⚠️  Adulterated — Water Dilution,Medium,18.3,0.4,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:18.166Z,6.69,275.8,,25.6,⚠️  Adulterated — Water Dilution,Medium,18.9,0.39,5.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:19.665Z,6.68,277.2,29.94,25.8,⚠️  Adulterated — Water Dilution,Low,19.5,0.38,5,none
+2026-05-17T15:57:20.667Z,6.66,278.8,29.94,26.3,⚠️  Adulterated — Water Dilution,Medium,20.2,0.36,4.7,none
+2026-05-17T15:57:21.667Z,6.65,279.8,29.95,26.6,⚠️  Adulterated — Water Dilution,Medium,20.6,0.35,4.5,none
+2026-05-17T15:57:22.669Z,6.64,280.6,29.95,26.9,⚠️  Adulterated — Water Dilution,Medium,20.9,0.34,4.3,none
+2026-05-17T15:57:23.671Z,6.63,281.4,29.95,27.3,⚠️  Adulterated — Water Dilution,Medium,21.3,0.33,4.1,none
+2026-05-17T15:57:24.673Z,6.62,282.6,29.95,27.6,⚠️  Adulterated — Water Dilution,Medium,21.8,0.32,3.9,none
+2026-05-17T15:57:25.511Z,6.62,283.4,,27.7,⚠️  Adulterated — Water Dilution,Medium,22.2,0.32,3.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:26.243Z,6.62,283.8,,27.7,⚠️  Adulterated — Water Dilution,Medium,22.3,0.32,3.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:27.182Z,6.61,284.4,,27.6,⚠️  Adulterated — Water Dilution,Medium,22.6,0.31,3.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:28.183Z,6.62,284.8,,27.4,⚠️  Adulterated — Water Dilution,Medium,22.8,0.32,4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:29.185Z,6.62,284.8,,27.2,⚠️  Adulterated — Water Dilution,Medium,22.8,0.32,4.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:30.186Z,6.63,284.8,,27.1,⚠️  Adulterated — Water Dilution,Medium,22.8,0.33,4.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:31.188Z,6.63,285,,27.1,⚠️  Adulterated — Water Dilution,Medium,22.8,0.33,4.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:32.189Z,6.63,285,,27.1,⚠️  Adulterated — Water Dilution,Medium,22.8,0.33,4.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:33.191Z,6.63,285,,27.1,⚠️  Adulterated — Water Dilution,Medium,22.8,0.33,4.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:34.192Z,6.63,285,,27.1,⚠️  Adulterated — Water Dilution,Medium,22.8,0.33,4.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:35.194Z,6.62,285,,27,⚠️  Adulterated — Water Dilution,Medium,22.8,0.32,4.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:36.196Z,6.63,285,,26.9,⚠️  Adulterated — Water Dilution,Medium,22.8,0.33,4.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:37.197Z,6.63,284.8,,26.7,⚠️  Adulterated — Water Dilution,Medium,22.8,0.33,4.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:38.199Z,6.64,284.2,,26.4,⚠️  Adulterated — Water Dilution,Medium,22.5,0.34,4.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:39.200Z,6.65,283.8,,26.1,⚠️  Adulterated — Water Dilution,Medium,22.3,0.35,4.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:40.203Z,6.66,283.2,,25.8,⚠️  Adulterated — Water Dilution,Medium,22.1,0.36,5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:41.204Z,6.67,282.6,,25.5,⚠️  Adulterated — Water Dilution,High,21.8,0.37,5.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:42.702Z,6.68,282.4,29.94,25.5,⚠️  Adulterated — Water Dilution,High,21.7,0.38,5.2,none
+2026-05-17T15:57:43.704Z,6.68,282.6,29.91,25.4,⚠️  Adulterated — Water Dilution,High,21.8,0.38,5.2,none
+2026-05-17T15:57:44.705Z,6.68,282.6,29.91,25.4,⚠️  Adulterated — Water Dilution,High,21.8,0.38,5.2,none
+2026-05-17T15:57:45.707Z,6.68,282.8,29.91,25.4,⚠️  Adulterated — Water Dilution,High,21.9,0.38,5.2,none
+2026-05-17T15:57:46.709Z,6.68,283,29.91,25.4,⚠️  Adulterated — Water Dilution,High,22,0.38,5.2,none
+2026-05-17T15:57:47.711Z,6.68,283,29.93,25.4,⚠️  Adulterated — Water Dilution,High,22,0.38,5.2,none
+2026-05-17T15:57:48.711Z,6.68,283,29.93,25.4,⚠️  Adulterated — Water Dilution,High,22,0.38,5.2,none
+2026-05-17T15:57:49.714Z,6.68,283.2,29.93,25.4,⚠️  Adulterated — Water Dilution,High,22.1,0.38,5.2,none
+2026-05-17T15:57:50.715Z,6.67,283.2,29.91,25.5,⚠️  Adulterated — Water Dilution,High,22.1,0.37,5.2,none
+2026-05-17T15:57:51.717Z,6.67,283.2,29.9,25.5,⚠️  Adulterated — Water Dilution,High,22.1,0.37,5.1,none
+2026-05-17T15:57:52.719Z,6.67,283.2,29.88,25.7,⚠️  Adulterated — Water Dilution,High,22.1,0.37,5,none
+2026-05-17T15:57:53.719Z,6.67,283.2,29.88,25.8,⚠️  Adulterated — Water Dilution,Medium,22.1,0.37,5,none
+2026-05-17T15:57:54.721Z,6.67,282.6,29.87,25.9,⚠️  Adulterated — Water Dilution,Medium,21.8,0.37,4.9,none
+2026-05-17T15:57:55.723Z,6.67,282,29.88,26.1,⚠️  Adulterated — Water Dilution,Medium,21.6,0.37,4.8,none
+2026-05-17T15:57:56.725Z,6.67,281.2,29.88,26.1,⚠️  Adulterated — Water Dilution,Medium,21.2,0.37,4.8,none
+2026-05-17T15:57:57.726Z,6.67,280.2,29.88,26.1,⚠️  Adulterated — Water Dilution,Medium,20.8,0.37,4.8,none
+2026-05-17T15:57:58.232Z,6.67,279,,26,⚠️  Adulterated — Water Dilution,Medium,20.3,0.37,4.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:57:59.730Z,6.67,278,29.88,25.9,⚠️  Adulterated — Water Dilution,Low,19.8,0.37,4.9,none
+2026-05-17T15:58:00.731Z,6.67,277,29.88,25.8,⚠️  Adulterated — Water Dilution,Low,19.4,0.37,5,none
+2026-05-17T15:58:01.734Z,6.67,276,29.88,25.7,⚠️  Adulterated — Water Dilution,Low,19,0.37,5,none
+2026-05-17T15:58:02.735Z,6.68,275.2,29.88,25.7,⚠️  Adulterated — Water Dilution,Low,18.6,0.38,5,none
+2026-05-17T15:58:03.736Z,6.68,274.6,29.9,25.7,⚠️  Adulterated — Water Dilution,Low,18.4,0.38,5,none
+2026-05-17T15:58:04.738Z,6.68,274,29.9,25.7,⚠️  Adulterated — Water Dilution,Low,18.1,0.38,5,none
+2026-05-17T15:58:05.739Z,6.68,273.6,29.9,25.7,⚠️  Adulterated — Water Dilution,Low,17.9,0.38,5,none
+2026-05-17T15:58:06.740Z,6.68,273.4,29.88,25.7,⚠️  Adulterated — Water Dilution,Low,17.8,0.38,5,none
+2026-05-17T15:58:07.743Z,6.68,273,29.88,25.7,⚠️  Adulterated — Water Dilution,Low,17.7,0.38,5,none
+2026-05-17T15:58:08.745Z,6.68,272.6,29.88,25.7,⚠️  Adulterated — Water Dilution,Low,17.5,0.38,5,none
+2026-05-17T15:58:09.746Z,6.68,272.4,29.88,25.7,⚠️  Adulterated — Water Dilution,Low,17.4,0.38,5,none
+2026-05-17T15:58:10.748Z,6.68,272.2,29.9,25.7,⚠️  Adulterated — Water Dilution,Low,17.3,0.38,5,none
+2026-05-17T15:58:11.253Z,6.68,271.8,,25.7,⚠️  Adulterated — Water Dilution,Low,17.2,0.38,5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:12.751Z,6.68,271.6,29.9,25.7,⚠️  Adulterated — Water Dilution,Low,17.1,0.38,5,none
+2026-05-17T15:58:13.255Z,6.68,271.4,,25.7,⚠️  Adulterated — Water Dilution,Medium,17,0.38,5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:14.754Z,6.68,271,29.91,25.7,⚠️  Adulterated — Water Dilution,Medium,16.8,0.38,5,none
+2026-05-17T15:58:15.260Z,6.67,270.6,,25.7,⚠️  Adulterated — Water Dilution,Medium,16.6,0.37,5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:16.283Z,6.67,270.4,29.91,25.6,⚠️  Adulterated — Water Dilution,Medium,16.6,0.37,5.1,none
+2026-05-17T15:58:17.759Z,6.67,270.2,29.93,25.5,⚠️  Adulterated — Water Dilution,Medium,16.5,0.37,5.1,none
+2026-05-17T15:58:18.760Z,6.67,270,29.93,25.5,⚠️  Adulterated — Water Dilution,Medium,16.4,0.37,5.1,none
+2026-05-17T15:58:19.762Z,6.67,270,29.94,25.5,⚠️  Adulterated — Water Dilution,Medium,16.4,0.37,5.2,none
+2026-05-17T15:58:20.534Z,6.67,269.8,,25.4,⚠️  Adulterated — Water Dilution,Medium,16.3,0.37,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:21.269Z,6.67,269.6,,25.4,⚠️  Adulterated — Water Dilution,Medium,16.2,0.37,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:22.293Z,6.67,269.4,29.94,25.4,⚠️  Adulterated — Water Dilution,Medium,16.1,0.37,5.2,none
+2026-05-17T15:58:23.273Z,6.67,269.2,,25.4,⚠️  Adulterated — Water Dilution,Medium,16,0.37,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:24.297Z,6.67,268.8,29.94,25.4,⚠️  Adulterated — Water Dilution,Medium,15.9,0.37,5.2,none
+2026-05-17T15:58:25.276Z,6.67,268.6,,25.4,⚠️  Adulterated — Water Dilution,Medium,15.8,0.37,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:26.278Z,6.67,268.4,,25.4,⚠️  Adulterated — Water Dilution,Medium,15.7,0.37,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:27.278Z,6.67,268,,25.4,⚠️  Adulterated — Water Dilution,Medium,15.5,0.37,5.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:28.777Z,6.67,267.6,29.94,25.4,⚠️  Adulterated — Water Dilution,Medium,15.3,0.37,5.2,none
+2026-05-17T15:58:29.778Z,6.67,267.4,29.94,25.4,⚠️  Adulterated — Water Dilution,Medium,15.3,0.37,5.2,none
+2026-05-17T15:58:30.781Z,6.67,267.2,29.94,25.4,⚠️  Adulterated — Water Dilution,Medium,15.2,0.37,5.2,none
+2026-05-17T15:58:31.782Z,6.67,266.8,29.94,25.4,⚠️  Adulterated — Water Dilution,Medium,15,0.37,5.2,none
+2026-05-17T15:58:32.783Z,6.67,266.4,29.94,25.5,⚠️  Adulterated — Water Dilution,Medium,14.8,0.37,5.2,none
+2026-05-17T15:58:33.786Z,6.67,266,29.94,25.5,⚠️  Adulterated — Water Dilution,Medium,14.7,0.37,5.2,none
+2026-05-17T15:58:34.786Z,6.67,265.6,29.94,25.5,⚠️  Adulterated — Water Dilution,Medium,14.5,0.37,5.2,none
+2026-05-17T15:58:35.789Z,6.66,265.2,29.94,25.5,⚠️  Adulterated — Water Dilution,Medium,14.3,0.36,5.1,none
+2026-05-17T15:58:36.790Z,6.66,264.8,29.94,25.6,⚠️  Adulterated — Water Dilution,Medium,14.1,0.36,5.1,none
+2026-05-17T15:58:37.792Z,6.67,264.6,29.94,25.6,⚠️  Adulterated — Water Dilution,Medium,14.1,0.37,5.1,none
+2026-05-17T15:58:38.296Z,6.67,264.4,,25.6,⚠️  Adulterated — Water Dilution,Medium,14,0.37,5.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:39.795Z,6.67,264.2,29.94,25.6,⚠️  Adulterated — Water Dilution,Medium,13.9,0.37,5.1,none
+2026-05-17T15:58:40.300Z,6.67,263.8,,25.5,⚠️  Adulterated — Water Dilution,Medium,13.7,0.37,5.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:41.301Z,6.67,263.6,,25.5,⚠️  Adulterated — Water Dilution,Medium,13.6,0.37,5.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:58:42.800Z,6.67,263.2,29.94,25.6,⚠️  Adulterated — Water Dilution,Medium,13.4,0.37,5.1,none
+2026-05-17T15:58:43.801Z,6.67,262.8,29.94,25.7,⚠️  Adulterated — Water Dilution,Low,13.3,0.37,5,none
+2026-05-17T15:58:44.803Z,6.67,262.6,29.94,25.9,⚠️  Adulterated — Water Dilution,Low,13.2,0.37,4.9,none
+2026-05-17T15:58:45.804Z,6.67,262.6,29.94,26,⚠️  Adulterated — Water Dilution,Low,13.2,0.37,4.8,none
+2026-05-17T15:58:46.806Z,6.67,262.8,29.94,26.1,⚠️  Adulterated — Water Dilution,Low,13.3,0.37,4.8,none
+2026-05-17T15:58:47.808Z,6.67,263.2,29.93,26.1,⚠️  Adulterated — Water Dilution,Low,13.4,0.37,4.8,none
+2026-05-17T15:58:48.809Z,6.67,263.4,29.93,26.1,⚠️  Adulterated — Water Dilution,Low,13.5,0.37,4.8,none
+2026-05-17T15:58:49.811Z,6.67,263.6,29.93,26.1,⚠️  Adulterated — Water Dilution,Low,13.6,0.37,4.8,none
+2026-05-17T15:58:50.812Z,6.67,263.8,29.91,26,⚠️  Adulterated — Water Dilution,Low,13.7,0.37,4.8,none
+2026-05-17T15:58:51.815Z,6.67,263.8,29.91,25.9,⚠️  Adulterated — Water Dilution,Low,13.7,0.37,4.9,none
+2026-05-17T15:58:52.816Z,6.66,263.8,29.91,25.8,⚠️  Adulterated — Water Dilution,Low,13.7,0.36,5,none
+2026-05-17T15:58:53.818Z,6.66,264,29.9,25.8,⚠️  Adulterated — Water Dilution,Low,13.8,0.36,5,none
+2026-05-17T15:58:54.818Z,6.66,264.2,29.88,25.8,⚠️  Adulterated — Water Dilution,Low,13.9,0.36,5,none
+2026-05-17T15:58:55.821Z,6.66,264.6,29.88,25.9,⚠️  Adulterated — Water Dilution,Low,14.1,0.36,4.9,none
+2026-05-17T15:58:56.823Z,6.66,265,29.87,26,⚠️  Adulterated — Water Dilution,Low,14.2,0.36,4.8,none
+2026-05-17T15:58:57.824Z,6.66,265.4,29.87,26.1,⚠️  Adulterated — Water Dilution,Low,14.4,0.36,4.8,none
+2026-05-17T15:58:58.826Z,6.66,266,29.87,26.1,⚠️  Adulterated — Water Dilution,Low,14.7,0.36,4.8,none
+2026-05-17T15:58:59.827Z,6.66,266.4,29.87,26.2,⚠️  Adulterated — Water Dilution,Low,14.8,0.36,4.7,none
+2026-05-17T15:59:00.829Z,6.66,266.6,29.87,26.3,⚠️  Adulterated — Water Dilution,Low,14.9,0.36,4.7,none
+2026-05-17T15:59:01.830Z,6.66,266.8,29.87,26.3,⚠️  Adulterated — Water Dilution,Low,15,0.36,4.6,none
+2026-05-17T15:59:02.832Z,6.66,267,29.87,26.3,⚠️  Adulterated — Water Dilution,Low,15.1,0.36,4.6,none
+2026-05-17T15:59:03.834Z,6.66,267,29.87,26.4,⚠️  Adulterated — Water Dilution,Low,15.1,0.36,4.6,none
+2026-05-17T15:59:04.835Z,6.66,267.2,29.86,26.4,⚠️  Adulterated — Water Dilution,Low,15.2,0.36,4.6,none
+2026-05-17T15:59:05.838Z,6.66,267.4,29.85,26.4,⚠️  Adulterated — Water Dilution,Low,15.3,0.36,4.6,none
+2026-05-17T15:59:06.838Z,6.66,267.6,29.83,26.4,⚠️  Adulterated — Water Dilution,Low,15.3,0.36,4.6,none
+2026-05-17T15:59:07.841Z,6.66,267.8,29.82,26.7,⚠️  Adulterated — Water Dilution,Low,15.4,0.36,4.4,none
+2026-05-17T15:59:08.841Z,6.66,268,29.82,27,⚠️  Adulterated — Water Dilution,Low,15.5,0.36,4.2,none
+2026-05-17T15:59:09.844Z,6.66,268.2,29.82,27.3,⚠️  Adulterated — Water Dilution,Low,15.6,0.36,4,none
+2026-05-17T15:59:10.845Z,6.66,268.4,29.83,27.6,⚠️  Adulterated — Water Dilution,Low,15.7,0.36,3.9,none
+2026-05-17T15:59:11.847Z,6.66,268.6,29.83,27.9,⚠️  Adulterated — Water Dilution,Low,15.8,0.36,3.7,none
+2026-05-17T15:59:12.849Z,6.66,269,29.85,27.5,⚠️  Adulterated — Water Dilution,Low,15.9,0.36,4,none
+2026-05-17T15:59:13.851Z,6.66,269.4,29.85,27.1,⚠️  Adulterated — Water Dilution,Low,16.1,0.36,4.2,none
+2026-05-17T15:59:14.853Z,6.66,269.8,29.85,26.6,⚠️  Adulterated — Water Dilution,Low,16.3,0.36,4.5,none
+2026-05-17T15:59:15.854Z,6.66,270.2,29.85,26.2,⚠️  Adulterated — Water Dilution,Low,16.5,0.36,4.7,none
+2026-05-17T15:59:16.856Z,6.66,270.6,29.86,25.8,⚠️  Adulterated — Water Dilution,Low,16.6,0.36,5,none
+2026-05-17T15:59:17.729Z,6.65,271,,25.8,⚠️  Adulterated — Water Dilution,Low,16.8,0.35,5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:59:18.859Z,6.65,271.4,29.86,25.8,⚠️  Adulterated — Water Dilution,Low,17,0.35,5,none
+2026-05-17T15:59:19.861Z,6.65,271.8,29.86,25.8,⚠️  Adulterated — Water Dilution,Low,17.2,0.35,5,none
+2026-05-17T15:59:20.862Z,6.65,272.4,29.87,25.9,⚠️  Adulterated — Water Dilution,Low,17.4,0.35,4.9,none
+2026-05-17T15:59:21.864Z,6.65,273,29.87,25.9,⚠️  Adulterated — Water Dilution,Low,17.7,0.35,4.9,none
+2026-05-17T15:59:22.663Z,6.65,273.6,,25.9,⚠️  Adulterated — Water Dilution,Low,17.9,0.35,4.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:59:23.867Z,6.65,274.4,29.87,26,⚠️  Adulterated — Water Dilution,Low,18.3,0.35,4.8,none
+2026-05-17T15:59:24.868Z,6.65,275,29.87,26.1,⚠️  Adulterated — Water Dilution,Low,18.5,0.35,4.8,none
+2026-05-17T15:59:25.870Z,6.65,275.4,29.86,26.2,⚠️  Adulterated — Water Dilution,Low,18.7,0.35,4.7,none
+2026-05-17T15:59:26.871Z,6.65,275.8,29.86,26.5,⚠️  Adulterated — Water Dilution,Low,18.9,0.35,4.6,none
+2026-05-17T15:59:27.873Z,6.65,276.2,29.86,26.6,⚠️  Adulterated — Water Dilution,Low,19.1,0.35,4.5,none
+2026-05-17T15:59:28.875Z,6.65,276.4,29.86,26.7,⚠️  Adulterated — Water Dilution,Low,19.1,0.35,4.4,none
+2026-05-17T15:59:29.877Z,6.65,276.8,29.86,26.8,⚠️  Adulterated — Water Dilution,Low,19.3,0.35,4.4,none
+2026-05-17T15:59:30.879Z,6.65,277.4,29.86,26.8,⚠️  Adulterated — Water Dilution,Low,19.6,0.35,4.4,none
+2026-05-17T15:59:31.879Z,6.65,278.2,29.86,26.7,⚠️  Adulterated — Water Dilution,Low,19.9,0.35,4.4,none
+2026-05-17T15:59:32.882Z,6.65,279,29.86,26.7,⚠️  Adulterated — Water Dilution,Medium,20.3,0.35,4.4,none
+2026-05-17T15:59:33.883Z,6.64,279.8,29.86,26.7,⚠️  Adulterated — Water Dilution,Medium,20.6,0.34,4.4,none
+2026-05-17T15:59:34.885Z,6.64,280.6,29.86,26.8,⚠️  Adulterated — Water Dilution,Medium,20.9,0.34,4.4,none
+2026-05-17T15:59:35.887Z,6.64,281.4,29.87,26.9,⚠️  Adulterated — Water Dilution,Medium,21.3,0.34,4.3,none
+2026-05-17T15:59:36.561Z,6.64,282.2,,26.9,⚠️  Adulterated — Water Dilution,Medium,21.6,0.34,4.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:59:37.890Z,6.65,282.8,29.88,27.1,⚠️  Adulterated — Water Dilution,Medium,21.9,0.35,4.2,none
+2026-05-17T15:59:38.891Z,6.65,283.6,29.88,27,⚠️  Adulterated — Water Dilution,Medium,22.2,0.35,4.2,none
+2026-05-17T15:59:39.893Z,6.65,284.4,29.88,27,⚠️  Adulterated — Water Dilution,Medium,22.6,0.35,4.2,none
+2026-05-17T15:59:40.894Z,6.65,285,29.87,27,⚠️  Adulterated — Water Dilution,Medium,22.8,0.35,4.2,none
+2026-05-17T15:59:41.896Z,6.65,285.6,29.87,27.1,⚠️  Adulterated — Water Dilution,Medium,23.1,0.35,4.2,none
+2026-05-17T15:59:42.898Z,6.65,286.4,29.86,27.1,⚠️  Adulterated — Water Dilution,Medium,23.4,0.35,4.2,none
+2026-05-17T15:59:43.900Z,6.65,287.2,29.86,27.1,⚠️  Adulterated — Water Dilution,Medium,23.8,0.35,4.2,none
+2026-05-17T15:59:44.902Z,6.64,287.8,29.86,27,⚠️  Adulterated — Water Dilution,Medium,24.1,0.34,4.2,none
+2026-05-17T15:59:45.903Z,6.64,288.6,29.87,26.9,⚠️  Adulterated — Water Dilution,Medium,24.4,0.34,4.3,none
+2026-05-17T15:59:46.904Z,6.64,289.4,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,24.7,0.34,4.4,none
+2026-05-17T15:59:47.906Z,6.64,290,29.87,26.5,⚠️  Adulterated — Water Dilution,Medium,25,0.34,4.5,none
+2026-05-17T15:59:48.907Z,6.64,290.4,29.86,26.5,⚠️  Adulterated — Water Dilution,Medium,25.2,0.34,4.6,none
+2026-05-17T15:59:49.909Z,6.64,291,29.85,26.5,⚠️  Adulterated — Water Dilution,Medium,25.4,0.34,4.6,none
+2026-05-17T15:59:50.911Z,6.64,291.6,29.85,26.5,⚠️  Adulterated — Water Dilution,Medium,25.7,0.34,4.6,none
+2026-05-17T15:59:51.913Z,6.64,292.2,29.85,26.5,⚠️  Adulterated — Water Dilution,Medium,25.9,0.34,4.6,none
+2026-05-17T15:59:52.914Z,6.64,293,29.85,26.4,⚠️  Adulterated — Water Dilution,Medium,26.3,0.34,4.6,none
+2026-05-17T15:59:53.916Z,6.64,294,29.87,26.4,⚠️  Adulterated — Water Dilution,Medium,26.7,0.34,4.6,none
+2026-05-17T15:59:54.917Z,6.64,295,29.88,26.4,⚠️  Adulterated — Water Dilution,Medium,27.2,0.34,4.6,none
+2026-05-17T15:59:55.919Z,6.64,296,29.88,26.4,⚠️  Adulterated — Water Dilution,Medium,27.6,0.34,4.6,none
+2026-05-17T15:59:56.920Z,6.63,297,29.88,26.4,⚠️  Adulterated — Water Dilution,Medium,28,0.33,4.6,none
+2026-05-17T15:59:57.922Z,6.63,297.8,29.88,26.4,⚠️  Adulterated — Water Dilution,Medium,28.4,0.33,4.6,none
+2026-05-17T15:59:58.427Z,6.63,298.6,,26.5,⚠️  Adulterated — Water Dilution,Medium,28.7,0.33,4.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T15:59:59.429Z,6.63,299.4,,26.5,⚠️  Adulterated — Water Dilution,Medium,29.1,0.33,4.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:00.453Z,6.63,300.2,29.87,26.5,⚠️  Adulterated — Water Dilution,Medium,29.4,0.33,4.5,none
+2026-05-17T16:00:01.432Z,6.63,301,,26.6,⚠️  Adulterated — Water Dilution,Medium,29.7,0.33,4.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:02.434Z,6.63,301.8,,26.6,⚠️  Adulterated — Water Dilution,Medium,30.1,0.33,4.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:03.557Z,6.63,302.6,29.87,26.5,⚠️  Adulterated — Water Dilution,Medium,30.4,0.33,4.5,none
+2026-05-17T16:00:04.933Z,6.63,303.4,29.88,26.6,⚠️  Adulterated — Water Dilution,Medium,30.8,0.33,4.5,none
+2026-05-17T16:00:05.935Z,6.63,304.2,29.88,26.6,⚠️  Adulterated — Water Dilution,Medium,31.1,0.33,4.5,none
+2026-05-17T16:00:06.937Z,6.63,305,29.88,26.6,⚠️  Adulterated — Water Dilution,Medium,31.5,0.33,4.5,none
+2026-05-17T16:00:07.939Z,6.62,306,29.88,26.7,⚠️  Adulterated — Water Dilution,Medium,31.9,0.32,4.4,none
+2026-05-17T16:00:08.940Z,6.62,307,29.88,26.7,⚠️  Adulterated — Water Dilution,Medium,32.3,0.32,4.4,none
+2026-05-17T16:00:09.942Z,6.62,308,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,32.8,0.32,4.4,none
+2026-05-17T16:00:10.943Z,6.63,309.2,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,33.3,0.33,4.4,none
+2026-05-17T16:00:11.945Z,6.63,310.4,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,33.8,0.33,4.4,none
+2026-05-17T16:00:12.947Z,6.63,311.6,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,34.3,0.33,4.4,none
+2026-05-17T16:00:13.949Z,6.63,312.6,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,34.7,0.33,4.4,none
+2026-05-17T16:00:14.949Z,6.63,313.4,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,35.1,0.33,4.4,none
+2026-05-17T16:00:15.952Z,6.62,314,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,35.3,0.32,4.4,none
+2026-05-17T16:00:16.954Z,6.62,314.6,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,35.6,0.32,4.4,none
+2026-05-17T16:00:17.955Z,6.62,315.2,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,35.9,0.32,4.4,none
+2026-05-17T16:00:18.957Z,6.62,316,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,36.2,0.32,4.4,none
+2026-05-17T16:00:19.958Z,6.62,316.8,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,36.6,0.32,4.4,none
+2026-05-17T16:00:20.960Z,6.62,317.6,29.87,26.7,⚠️  Adulterated — Water Dilution,Medium,36.9,0.32,4.4,none
+2026-05-17T16:00:21.961Z,6.62,318.4,29.87,26.8,⚠️  Adulterated — Water Dilution,Medium,37.2,0.32,4.4,none
+2026-05-17T16:00:22.963Z,6.62,319.2,29.87,26.8,⚠️  Adulterated — Water Dilution,Medium,37.6,0.32,4.4,none
+2026-05-17T16:00:23.965Z,6.61,320,29.87,26.8,⚠️  Adulterated — Water Dilution,Medium,37.9,0.31,4.4,none
+2026-05-17T16:00:24.966Z,6.61,321,29.87,26.9,⚠️  Adulterated — Water Dilution,Medium,38.4,0.31,4.3,none
+2026-05-17T16:00:25.968Z,6.61,322,29.86,26.8,⚠️  Adulterated — Water Dilution,Medium,38.8,0.31,4.4,none
+2026-05-17T16:00:26.473Z,6.61,323,,26.7,⚠️  Adulterated — Water Dilution,Medium,39.2,0.31,4.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:27.475Z,6.61,324,,26.7,⚠️  Adulterated — Water Dilution,Medium,39.7,0.31,4.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:28.974Z,6.61,325,29.86,26.8,⚠️  Adulterated — Water Dilution,Medium,40.1,0.31,4.4,none
+2026-05-17T16:00:29.974Z,6.61,326.2,29.85,26.9,⚠️  Adulterated — Water Dilution,Medium,40.6,0.31,4.3,none
+2026-05-17T16:00:30.976Z,6.61,327.4,29.85,26.9,⚠️  Adulterated — Water Dilution,Medium,41.1,0.31,4.3,none
+2026-05-17T16:00:31.977Z,6.61,328.6,29.85,27,⚠️  Adulterated — Water Dilution,Medium,41.6,0.31,4.2,none
+2026-05-17T16:00:32.980Z,6.61,329.8,29.86,27.3,⚠️  Adulterated — Water Dilution,Medium,42.2,0.31,4,none
+2026-05-17T16:00:33.980Z,6.61,331,29.86,27.7,⚠️  Adulterated — Water Dilution,Medium,42.7,0.31,3.8,none
+2026-05-17T16:00:34.983Z,6.61,332,29.87,27.9,⚠️  Adulterated — Water Dilution,Medium,43.1,0.31,3.7,none
+2026-05-17T16:00:35.984Z,6.61,333,29.87,27.9,⚠️  Adulterated — Water Dilution,Medium,43.5,0.31,3.7,none
+2026-05-17T16:00:36.986Z,6.61,334.2,29.86,28,⚠️  Adulterated — Water Dilution,Medium,44.1,0.31,3.6,none
+2026-05-17T16:00:37.987Z,6.61,335.4,29.85,27.8,⚠️  Adulterated — Water Dilution,Medium,44.6,0.31,3.8,none
+2026-05-17T16:00:38.989Z,6.61,336.6,29.83,27.6,⚠️  Adulterated — Water Dilution,Medium,45.1,0.31,3.9,none
+2026-05-17T16:00:39.992Z,6.61,337.8,29.82,27.5,⚠️  Adulterated — Water Dilution,Medium,45.6,0.31,4,none
+2026-05-17T16:00:40.992Z,6.61,338.8,29.82,27.6,⚠️  Adulterated — Water Dilution,Medium,46,0.31,3.9,none
+2026-05-17T16:00:41.994Z,6.61,339.8,29.83,27.7,⚠️  Adulterated — Water Dilution,Medium,46.5,0.31,3.8,none
+2026-05-17T16:00:42.830Z,6.61,339.8,,27.7,⚠️  Adulterated — Water Dilution,Medium,46.5,0.31,3.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:43.997Z,6.61,340,29.83,27.7,⚠️  Adulterated — Water Dilution,Medium,46.6,0.31,3.8,none
+2026-05-17T16:00:44.998Z,6.61,340.2,29.85,27.7,⚠️  Adulterated — Water Dilution,Medium,46.6,0.31,3.8,none
+2026-05-17T16:00:46.000Z,6.61,340.8,29.86,27.7,⚠️  Adulterated — Water Dilution,Medium,46.9,0.31,3.8,none
+2026-05-17T16:00:47.001Z,6.61,341.4,29.87,27.7,⚠️  Adulterated — Water Dilution,Medium,47.2,0.31,3.8,none
+2026-05-17T16:00:47.746Z,6.61,343,,27.9,⚠️  Adulterated — Water Dilution,Medium,47.8,0.31,3.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:48.509Z,6.61,344.6,,28.1,⚠️  Adulterated — Water Dilution,Medium,48.5,0.31,3.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:49.510Z,6.61,346.2,,28.4,⚠️  Adulterated — Water Dilution,Medium,49.2,0.31,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:50.513Z,6.61,347.6,,28.6,⚠️  Adulterated — Water Dilution,Medium,49.8,0.31,3.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:51.581Z,6.61,348.8,,28.6,⚠️  Adulterated — Water Dilution,Medium,50.3,0.31,3.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:52.516Z,6.6,349.6,,28.6,⚠️  Adulterated — Water Dilution,Medium,50.7,0.3,3.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:53.517Z,6.6,350,,28.7,⚠️  Adulterated — Water Dilution,Medium,50.9,0.3,3.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:55.015Z,6.6,350.4,29.87,28.7,⚠️  Adulterated — Water Dilution,Medium,51,0.3,3.2,none
+2026-05-17T16:00:56.018Z,6.6,350.8,29.88,28.6,⚠️  Adulterated — Water Dilution,Medium,51.2,0.3,3.3,none
+2026-05-17T16:00:57.019Z,6.6,351.4,29.88,28.7,⚠️  Adulterated — Water Dilution,Medium,51.5,0.3,3.2,none
+2026-05-17T16:00:57.524Z,6.6,352.4,,28.6,⚠️  Adulterated — Water Dilution,Medium,51.9,0.3,3.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:00:58.548Z,6.59,353.2,29.88,28.4,⚠️  Adulterated — Water Dilution,Medium,52.2,0.29,3.4,none
+2026-05-17T16:01:00.024Z,6.59,353.8,29.86,28.3,⚠️  Adulterated — Water Dilution,Medium,52.5,0.29,3.4,none
+2026-05-17T16:01:01.025Z,6.58,354.6,29.85,28.4,⚠️  Adulterated — Water Dilution,Medium,52.8,0.28,3.4,none
+2026-05-17T16:01:02.027Z,6.58,355.2,29.85,28.4,⚠️  Adulterated — Water Dilution,Medium,53.1,0.28,3.4,none
+2026-05-17T16:01:03.028Z,6.58,355.8,29.83,28.5,⚠️  Adulterated — Water Dilution,Medium,53.4,0.28,3.3,none
+2026-05-17T16:01:04.030Z,6.58,356.8,29.82,28.6,⚠️  Adulterated — Water Dilution,Medium,53.8,0.28,3.2,none
+2026-05-17T16:01:05.032Z,6.58,358,29.83,28.5,⚠️  Adulterated — Water Dilution,Medium,54.3,0.28,3.3,none
+2026-05-17T16:01:06.033Z,6.58,358.8,29.83,28.4,⚠️  Adulterated — Water Dilution,Medium,54.7,0.28,3.4,none
+2026-05-17T16:01:07.035Z,6.58,359.8,29.83,28.4,⚠️  Adulterated — Water Dilution,Medium,55.1,0.28,3.4,none
+2026-05-17T16:01:08.037Z,6.57,360.6,29.83,28.4,⚠️  Adulterated — Water Dilution,Medium,55.4,0.27,3.4,none
+2026-05-17T16:01:09.038Z,6.57,361.4,29.85,28.3,⚠️  Adulterated — Water Dilution,Medium,55.8,0.27,3.4,none
+2026-05-17T16:01:10.039Z,6.57,362.2,29.83,28.4,⚠️  Adulterated — Water Dilution,Medium,56.1,0.27,3.4,none
+2026-05-17T16:01:11.042Z,6.57,363.2,29.83,28.4,⚠️  Adulterated — Water Dilution,Medium,56.6,0.27,3.4,none
+2026-05-17T16:01:12.044Z,6.57,364.2,29.83,28.4,⚠️  Adulterated — Water Dilution,Medium,57,0.27,3.4,none
+2026-05-17T16:01:13.044Z,6.57,365.2,29.83,28.4,⚠️  Adulterated — Water Dilution,Medium,57.4,0.27,3.4,none
+2026-05-17T16:01:14.047Z,6.57,366.2,29.82,28.4,⚠️  Adulterated — Water Dilution,Medium,57.8,0.27,3.4,none
+2026-05-17T16:01:15.048Z,6.57,367,29.82,28.3,⚠️  Adulterated — Water Dilution,Medium,58.2,0.27,3.4,none
+2026-05-17T16:01:16.050Z,6.57,367.6,29.83,28.3,⚠️  Adulterated — Water Dilution,Medium,58.4,0.27,3.5,none
+2026-05-17T16:01:17.051Z,6.57,367.8,29.82,28.2,⚠️  Adulterated — Water Dilution,Medium,58.5,0.27,3.5,none
+2026-05-17T16:01:18.053Z,6.57,368.2,29.83,28.1,⚠️  Adulterated — Water Dilution,Medium,58.7,0.27,3.6,none
+2026-05-17T16:01:18.558Z,6.57,368.6,,28.1,⚠️  Adulterated — Water Dilution,Medium,58.9,0.27,3.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:19.560Z,6.57,369.2,,28.1,⚠️  Adulterated — Water Dilution,Medium,59.1,0.27,3.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:21.058Z,6.57,370.2,29.83,28.1,⚠️  Adulterated — Water Dilution,Medium,59.6,0.27,3.6,none
+2026-05-17T16:01:22.313Z,6.54,371,,28.2,❌ Adulterated — Detergent,Medium,59.9,0.24,3.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:23.422Z,6.53,372,,28.3,❌ Adulterated — Detergent,Medium,60.3,0.23,3.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:24.530Z,6.51,373,,28.3,❌ Adulterated — Detergent,Medium,60.8,0.21,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:25.637Z,6.49,373.4,,28.4,⚠️  Adulterated — Water Dilution,Low,60.9,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:26.745Z,6.47,373.6,,28.4,⚠️  Adulterated — Water Dilution,Low,61,0.17,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:27.852Z,6.48,374.2,,28.4,⚠️  Adulterated — Water Dilution,Low,61.3,0.18,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:28.961Z,6.48,374.6,,28.4,⚠️  Adulterated — Water Dilution,Low,61.5,0.18,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:30.068Z,6.48,375,,28.4,⚠️  Adulterated — Water Dilution,Low,61.6,0.18,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:31.176Z,6.48,376.2,,28.4,⚠️  Adulterated — Water Dilution,Low,62.2,0.18,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:32.284Z,6.48,377.2,,28.4,⚠️  Adulterated — Water Dilution,Low,62.6,0.18,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:33.392Z,6.48,378,,28.4,⚠️  Adulterated — Water Dilution,Low,62.9,0.18,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:34.501Z,6.49,378.8,,28.4,⚠️  Adulterated — Water Dilution,Low,63.3,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:35.610Z,6.49,379.8,,28.4,⚠️  Adulterated — Water Dilution,Low,63.7,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:36.719Z,6.49,382.2,,28.4,⚠️  Adulterated — Water Dilution,Low,64.7,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:37.828Z,6.49,386.4,,28.4,⚠️  Adulterated — Water Dilution,Low,66.6,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:38.936Z,6.49,391.4,,28.4,⚠️  Adulterated — Water Dilution,Low,68.7,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:40.045Z,6.49,397.2,,28.4,⚠️  Adulterated — Water Dilution,Low,71.2,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:41.153Z,6.49,405.4,,28.4,⚠️  Adulterated — Water Dilution,Low,74.7,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:42.261Z,6.49,413.4,,28.4,⚠️  Adulterated — Water Dilution,Low,78.2,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:43.368Z,6.49,420.6,,28.4,⚠️  Adulterated — Water Dilution,Low,81.3,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:44.476Z,6.49,427.8,,28.4,⚠️  Adulterated — Water Dilution,Low,84.4,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:45.584Z,6.49,434.4,,28.4,⚠️  Adulterated — Water Dilution,Low,87.2,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:46.691Z,6.49,438.4,,28.4,⚠️  Adulterated — Water Dilution,Low,89,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:47.800Z,6.49,441.4,,28.4,⚠️  Adulterated — Water Dilution,Low,90.3,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:48.907Z,6.49,443.4,,28.4,⚠️  Adulterated — Water Dilution,Low,91.1,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:50.016Z,6.49,444.8,,28.4,⚠️  Adulterated — Water Dilution,Low,91.7,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:51.125Z,6.49,446.2,,28.4,⚠️  Adulterated — Water Dilution,Low,92.3,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:52.234Z,6.49,447.6,,28.5,⚠️  Adulterated — Water Dilution,Low,92.9,0.19,3.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:53.343Z,6.49,448.4,,28.5,⚠️  Adulterated — Water Dilution,Low,93.3,0.19,3.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:54.452Z,6.49,449.4,,28.5,⚠️  Adulterated — Water Dilution,Low,93.7,0.19,3.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:55.561Z,6.49,450.2,,28.5,⚠️  Adulterated — Water Dilution,Low,94.1,0.19,3.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:56.669Z,6.49,450.8,,28.4,⚠️  Adulterated — Water Dilution,Low,94.3,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:57.777Z,6.49,451.2,,28.4,⚠️  Adulterated — Water Dilution,Low,94.5,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:58.885Z,6.49,451.8,,28.4,⚠️  Adulterated — Water Dilution,Low,94.7,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:01:59.992Z,6.49,452.2,,28.4,⚠️  Adulterated — Water Dilution,Low,94.9,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:01.100Z,6.49,452.6,,28.4,⚠️  Adulterated — Water Dilution,Low,95.1,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:02.207Z,6.49,452.8,,28.4,⚠️  Adulterated — Water Dilution,Low,95.2,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:03.315Z,6.49,453.2,,28.3,⚠️  Adulterated — Water Dilution,Low,95.3,0.19,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:04.423Z,6.49,453.4,,28.3,⚠️  Adulterated — Water Dilution,Low,95.4,0.19,3.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:05.532Z,6.49,453.8,,28.2,⚠️  Adulterated — Water Dilution,Low,95.6,0.19,3.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:06.641Z,6.49,454.2,,28.1,⚠️  Adulterated — Water Dilution,Low,95.8,0.19,3.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:07.749Z,6.49,454.6,,28,⚠️  Adulterated — Water Dilution,Low,95.9,0.19,3.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:08.858Z,6.49,454.6,,27.9,⚠️  Adulterated — Water Dilution,Low,95.9,0.19,3.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:09.967Z,6.48,454.6,,27.9,⚠️  Adulterated — Water Dilution,Low,95.9,0.18,3.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:11.076Z,6.48,454.2,,27.8,⚠️  Adulterated — Water Dilution,Low,95.8,0.18,3.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:12.184Z,6.48,453.8,,27.8,⚠️  Adulterated — Water Dilution,Low,95.6,0.18,3.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:13.293Z,6.48,453.4,,27.9,⚠️  Adulterated — Water Dilution,Low,95.4,0.18,3.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:14.401Z,6.48,453.2,,28.1,⚠️  Adulterated — Water Dilution,Low,95.3,0.18,3.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:15.509Z,6.48,453,,28.4,⚠️  Adulterated — Water Dilution,Low,95.3,0.18,3.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:16.616Z,6.49,453.2,,28.6,⚠️  Adulterated — Water Dilution,Low,95.3,0.19,3.3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:17.724Z,6.49,453.4,,28.6,⚠️  Adulterated — Water Dilution,Low,95.4,0.19,3.2,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:18.832Z,6.49,454,,28.8,⚠️  Adulterated — Water Dilution,Low,95.7,0.19,3.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:19.940Z,6.49,454.4,,28.8,⚠️  Adulterated — Water Dilution,Low,95.9,0.19,3.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:21.047Z,6.49,454.8,,28.8,⚠️  Adulterated — Water Dilution,Low,96,0.19,3.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:22.156Z,6.48,455,,28.9,⚠️  Adulterated — Water Dilution,Low,96.1,0.18,3.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:23.265Z,6.48,455.2,,29,⚠️  Adulterated — Water Dilution,Low,96.2,0.18,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:24.374Z,6.48,455,,28.9,⚠️  Adulterated — Water Dilution,Low,96.1,0.18,3.1,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:25.483Z,6.48,455.4,,29,⚠️  Adulterated — Water Dilution,Low,96.3,0.18,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:26.592Z,6.48,455.6,,29.2,⚠️  Adulterated — Water Dilution,Low,96.4,0.18,2.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:27.700Z,6.48,455.8,,29.2,⚠️  Adulterated — Water Dilution,Low,96.5,0.18,2.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:28.809Z,6.48,456,,29.5,⚠️  Adulterated — Water Dilution,Low,96.6,0.18,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:29.917Z,6.48,456.4,,29.8,⚠️  Adulterated — Water Dilution,Low,96.7,0.18,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:31.025Z,6.48,456.2,,29.8,⚠️  Adulterated — Water Dilution,Low,96.6,0.18,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:32.132Z,6.49,456.2,,29.9,⚠️  Adulterated — Water Dilution,Low,96.6,0.19,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:33.239Z,6.48,456.2,,30,⚠️  Adulterated — Water Dilution,Low,96.6,0.18,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:34.347Z,6.49,456.2,,30,⚠️  Adulterated — Water Dilution,Low,96.6,0.19,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:35.456Z,6.49,456.2,,30,⚠️  Adulterated — Water Dilution,Low,96.6,0.19,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:36.564Z,6.49,456.4,,30.1,⚠️  Adulterated — Water Dilution,Low,96.7,0.19,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:37.671Z,6.5,456.6,,30.1,❌ Adulterated — Detergent,Medium,96.8,0.2,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:38.779Z,6.5,456.6,,30,❌ Adulterated — Detergent,Medium,96.8,0.2,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:39.888Z,6.5,456.6,,29.8,❌ Adulterated — Detergent,Medium,96.8,0.2,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:40.997Z,6.5,456.4,,29.6,❌ Adulterated — Detergent,Medium,96.7,0.2,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:42.106Z,6.5,456.2,,29.4,❌ Adulterated — Detergent,Medium,96.6,0.2,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:43.215Z,6.5,456.2,,29.4,❌ Adulterated — Detergent,Medium,96.6,0.2,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:44.323Z,6.5,456.2,,29.5,❌ Adulterated — Detergent,Medium,96.6,0.2,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:45.433Z,6.5,456.2,,29.7,❌ Adulterated — Detergent,Medium,96.6,0.2,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:46.540Z,6.5,456.4,,29.8,❌ Adulterated — Detergent,Medium,96.7,0.2,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:47.647Z,6.5,456.2,,29.6,❌ Adulterated — Detergent,Medium,96.6,0.2,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:48.755Z,6.5,455.8,,29.4,❌ Adulterated — Detergent,Medium,96.5,0.2,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:49.863Z,6.5,455.8,,29.2,❌ Adulterated — Detergent,Medium,96.5,0.2,2.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:50.971Z,6.5,455.8,,29,❌ Adulterated — Detergent,Medium,96.5,0.2,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:52.079Z,6.5,455.6,,29.2,❌ Adulterated — Detergent,Medium,96.4,0.2,2.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:53.186Z,6.5,456,,29.5,❌ Adulterated — Detergent,Medium,96.6,0.2,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:54.295Z,6.5,456.2,,29.6,❌ Adulterated — Detergent,Medium,96.6,0.2,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:55.404Z,6.5,456.4,,29.8,❌ Adulterated — Detergent,Medium,96.7,0.2,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:56.513Z,6.5,456.6,,30.1,❌ Adulterated — Detergent,Medium,96.8,0.2,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:57.622Z,6.5,456.8,,30,❌ Adulterated — Detergent,Medium,96.9,0.2,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:58.730Z,6.5,457,,30,❌ Adulterated — Detergent,Medium,97,0.2,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:02:59.839Z,6.5,457.8,,29.9,❌ Adulterated — Detergent,Medium,97.3,0.2,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:00.947Z,6.5,458.4,,29.8,❌ Adulterated — Detergent,Medium,97.6,0.2,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:02.057Z,6.5,459.2,,29.6,❌ Adulterated — Detergent,Medium,97.9,0.2,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:03.165Z,6.5,459.8,,29.6,❌ Adulterated — Detergent,Medium,98.2,0.2,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:04.272Z,6.5,460.2,,29.4,❌ Adulterated — Detergent,Medium,98.4,0.2,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:05.380Z,6.5,460.2,,29.4,❌ Adulterated — Detergent,Medium,98.4,0.2,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:06.488Z,6.49,460.2,,29.5,⚠️  Adulterated — Water Dilution,Low,98.4,0.19,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:07.595Z,6.49,460,,29.6,⚠️  Adulterated — Water Dilution,Low,98.3,0.19,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:08.703Z,6.49,459.8,,29.6,⚠️  Adulterated — Water Dilution,Low,98.2,0.19,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:09.811Z,6.49,459.6,,29.9,⚠️  Adulterated — Water Dilution,Low,98.1,0.19,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:10.919Z,6.49,459.4,,29.9,⚠️  Adulterated — Water Dilution,Low,98,0.19,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:12.028Z,6.49,459.4,,29.8,⚠️  Adulterated — Water Dilution,Low,98,0.19,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:13.137Z,6.49,459.4,,29.8,⚠️  Adulterated — Water Dilution,Low,98,0.19,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:14.246Z,6.49,459.6,,29.6,⚠️  Adulterated — Water Dilution,Low,98.1,0.19,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:15.355Z,6.49,459.6,,29.4,⚠️  Adulterated — Water Dilution,Low,98.1,0.19,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:16.464Z,6.49,459.2,,29.5,⚠️  Adulterated — Water Dilution,Low,97.9,0.19,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:17.572Z,6.49,458.6,,29.5,⚠️  Adulterated — Water Dilution,Low,97.7,0.19,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:18.681Z,6.49,457.8,,29.5,⚠️  Adulterated — Water Dilution,Low,97.3,0.19,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:19.788Z,6.49,456.8,,29.6,⚠️  Adulterated — Water Dilution,Low,96.9,0.19,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:20.896Z,6.48,456.2,,29.6,⚠️  Adulterated — Water Dilution,Low,96.6,0.18,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:22.004Z,6.46,456.2,,29.6,⚠️  Adulterated — Water Dilution,Low,96.6,0.16,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:23.112Z,6.45,456.2,,29.8,⚠️  Adulterated — Water Dilution,Low,96.6,0.15,2.6,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:24.220Z,6.44,456.4,,29.9,⚠️  Adulterated — Water Dilution,Low,96.7,0.14,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:25.327Z,6.43,456.6,,30,⚠️  Adulterated — Water Dilution,Low,96.8,0.13,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:26.435Z,6.43,456.6,,30,⚠️  Adulterated — Water Dilution,Low,96.8,0.13,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:27.544Z,6.44,456.2,,30,⚠️  Adulterated — Water Dilution,Low,96.6,0.14,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:28.652Z,6.44,456,,30,⚠️  Adulterated — Water Dilution,Low,96.6,0.14,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:29.761Z,6.44,455.6,,30,⚠️  Adulterated — Water Dilution,Low,96.4,0.14,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:30.870Z,6.44,455.2,,30,⚠️  Adulterated — Water Dilution,Low,96.2,0.14,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:31.978Z,6.45,455,,30,⚠️  Adulterated — Water Dilution,Low,96.1,0.15,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:33.087Z,6.44,455,,30,⚠️  Adulterated — Water Dilution,Low,96.1,0.14,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:34.197Z,6.44,455,,30.1,⚠️  Adulterated — Water Dilution,Low,96.1,0.14,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:35.304Z,6.45,455.2,,30.1,⚠️  Adulterated — Water Dilution,Low,96.2,0.15,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:36.412Z,6.45,455.4,,30.1,⚠️  Adulterated — Water Dilution,Low,96.3,0.15,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:37.520Z,6.45,455.4,,30,⚠️  Adulterated — Water Dilution,Low,96.3,0.15,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:38.628Z,6.46,455.4,,30,⚠️  Adulterated — Water Dilution,Low,96.3,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:39.735Z,6.46,455.2,,30,⚠️  Adulterated — Water Dilution,Low,96.2,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:40.843Z,6.46,455,,30,⚠️  Adulterated — Water Dilution,Low,96.1,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:41.950Z,6.46,455.2,,29.9,⚠️  Adulterated — Water Dilution,Low,96.2,0.16,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:43.058Z,6.46,455.4,,29.9,⚠️  Adulterated — Water Dilution,Low,96.3,0.16,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:44.167Z,6.46,455.6,,29.8,⚠️  Adulterated — Water Dilution,Low,96.4,0.16,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:45.275Z,6.47,455.8,,29.8,⚠️  Adulterated — Water Dilution,Low,96.5,0.17,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:46.385Z,6.47,455.6,,29.8,⚠️  Adulterated — Water Dilution,Low,96.4,0.17,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:47.493Z,6.48,455.2,,29.9,⚠️  Adulterated — Water Dilution,Low,96.2,0.18,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:48.602Z,6.48,454.8,,30,⚠️  Adulterated — Water Dilution,Low,96,0.18,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:49.711Z,6.47,454.4,,30.1,⚠️  Adulterated — Water Dilution,Low,95.9,0.17,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:50.820Z,6.47,454.2,,30.1,⚠️  Adulterated — Water Dilution,Low,95.8,0.17,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:51.928Z,6.47,454.4,,30.1,⚠️  Adulterated — Water Dilution,Low,95.9,0.17,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:53.035Z,6.46,454.8,,30.1,⚠️  Adulterated — Water Dilution,Low,96,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:54.143Z,6.46,455,,30,⚠️  Adulterated — Water Dilution,Low,96.1,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:55.250Z,6.46,455.2,,30,⚠️  Adulterated — Water Dilution,Low,96.2,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:56.358Z,6.46,455.4,,30,⚠️  Adulterated — Water Dilution,Low,96.3,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:57.466Z,6.46,455.8,,30,⚠️  Adulterated — Water Dilution,Low,96.5,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:58.574Z,6.46,455.8,,30,⚠️  Adulterated — Water Dilution,Low,96.5,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:03:59.683Z,6.46,456,,30.1,⚠️  Adulterated — Water Dilution,Low,96.6,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:00.791Z,6.46,456.4,,30.1,⚠️  Adulterated — Water Dilution,Low,96.7,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:01.900Z,6.46,456.4,,30,⚠️  Adulterated — Water Dilution,Low,96.7,0.16,2.4,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:03.009Z,6.47,456.4,,29.9,⚠️  Adulterated — Water Dilution,Low,96.7,0.17,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:04.117Z,6.47,456.8,,29.8,⚠️  Adulterated — Water Dilution,Low,96.9,0.17,2.5,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:05.226Z,6.47,457.2,,29.6,⚠️  Adulterated — Water Dilution,Low,97.1,0.17,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:06.336Z,6.46,457.4,,29.4,⚠️  Adulterated — Water Dilution,Low,97.2,0.16,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:07.444Z,6.46,458.2,,29.2,⚠️  Adulterated — Water Dilution,Low,97.5,0.16,2.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:08.552Z,6.46,459,,29.1,⚠️  Adulterated — Water Dilution,Low,97.8,0.16,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:09.659Z,6.47,459.4,,29,⚠️  Adulterated — Water Dilution,Low,98,0.17,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:10.767Z,6.47,459.8,,29,⚠️  Adulterated — Water Dilution,Low,98.2,0.17,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:11.875Z,6.47,460.2,,29,⚠️  Adulterated — Water Dilution,Low,98.4,0.17,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:12.983Z,6.48,460.6,,29.1,⚠️  Adulterated — Water Dilution,Low,98.5,0.18,3,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:14.091Z,6.48,461,,29.2,⚠️  Adulterated — Water Dilution,Low,98.7,0.18,2.9,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:15.198Z,6.47,461.6,,29.3,⚠️  Adulterated — Water Dilution,Low,99,0.17,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:16.307Z,6.47,462.2,,29.4,⚠️  Adulterated — Water Dilution,Low,99.2,0.17,2.8,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:17.416Z,6.47,463,,29.5,⚠️  Adulterated — Water Dilution,Low,99.6,0.17,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:18.524Z,6.47,463.4,,29.5,⚠️  Adulterated — Water Dilution,Low,99.7,0.17,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
+2026-05-17T16:04:19.633Z,6.47,463.6,,29.6,⚠️  Adulterated — Water Dilution,Low,99.8,0.17,2.7,TEMP_SENSOR_FAULT — check pin 4 + 4.7kΩ pull-up
